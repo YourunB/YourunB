@@ -23,8 +23,9 @@
   <p dir="auto"><a href="https://git.io/streak-stats" rel="nofollow"><img src="https://camo.githubusercontent.com/be0d934517038032067e28e14c5fa96242f7890d9ecd4662cb9511cd11a16196/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d636865726b61736f766161267468656d653d6461726b266261636b67726f756e643d303030303030" alt="GitHub Streak" data-canonical-src="http://github-readme-streak-stats.herokuapp.com?user=yourunb&amp;theme=dark&amp;background=000000" style="max-width: 100%;"></a></p>
 </p>
 
+
+<h2></h2>
 <p>
-  <h2></h2>
   <img src="https://github.com/YourunB/Test1/blob/main/images/ItAcademy.jpg?raw=true" alt="IT Academy" style="width: 100px;">
   <img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 100px;">
 </p>
