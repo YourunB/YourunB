@@ -1,4 +1,4 @@
-![alt text](https://github.com/YourunB/YourunB/blob/main/welcome.gif?raw=true)
+<img src="https://github.com/YourunB/YourunB/blob/main/welcome.gif?raw=true" alt="Programming" width="400"/>
 <br>
 Hello! 👋 I am Yury. 
 
