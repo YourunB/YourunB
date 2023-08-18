@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/YourunB/YourunB/blob/main/welcome.gif?raw=true" alt="Programming" width="400"/>
+<p align="center"><img src="https://github.com/YourunB/YourunB/blob/main/welcome.gif?raw=true" alt="Programming" width="400"/></p>
 <h1 align="center">Hello! 👋 I am Yury.</h1>
 
 <!--
