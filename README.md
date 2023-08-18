@@ -1,6 +1,5 @@
 <img src="https://github.com/YourunB/YourunB/blob/main/welcome.gif?raw=true" alt="Programming" width="400"/>
-<br>
-Hello! 👋 I am Yury. 
+<h1 align="center">Hello! 👋 I am Yury.</h1>
 
 <!--
 **YourunB/YourunB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
