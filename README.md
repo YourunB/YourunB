@@ -1,4 +1,5 @@
-### Hi there 👋
+![alt text](https://github.com/YourunB/YourunB/blob/main/welcome.gif?raw=true)
+Hello! 👋 I am Yury. 
 
 <!--
 **YourunB/YourunB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
