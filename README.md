@@ -24,6 +24,7 @@
 </p>
 
 <p>
+  <h2></h2>
   <img src="https://github.com/YourunB/Test1/blob/main/images/ItAcademy.jpg?raw=true" alt="IT Academy" style="width: 100px;">
   <img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 100px;">
 </p>
