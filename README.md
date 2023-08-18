@@ -3,7 +3,7 @@
 
 <p>
   <h2>🔥CodeWars:</h2>
-  <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9966d8f7e6f1b07b920461401eca295669a877bb9c097f19e81eada3facd96d7/68747470733a2f2f6769746875622e7232762e63682f636f6465776172733f757365723d64696e6966617262"><img src="https://camo.githubusercontent.com/9966d8f7e6f1b07b920461401eca295669a877bb9c097f19e81eada3facd96d7/68747470733a2f2f6769746875622e7232762e63682f636f6465776172733f757365723d64696e6966617262" alt="Codewars" data-canonical-src="https://github.r2v.ch/codewars?user=rsschool_785da839e5c30a16" style="max-width: 100%;"></a></p>
+  <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.codewars.com/users/rsschool_785da839e5c30a16"><img src="https://github.r2v.ch/codewars?user=rsschool_785da839e5c30a16" alt="Codewars" data-canonical-src="https://github.r2v.ch/codewars?user=rsschool_785da839e5c30a16" style="max-width: 100%;"></a></p>
 </p>
 
 <p>
