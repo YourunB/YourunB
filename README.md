@@ -1,4 +1,5 @@
 ![alt text](https://github.com/YourunB/YourunB/blob/main/welcome.gif?raw=true)
+<br>
 Hello! 👋 I am Yury. 
 
 <!--
