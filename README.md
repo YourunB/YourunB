@@ -2,6 +2,11 @@
 <h1 align="center">Hello! <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" data-animated-image="" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></a> I am Yury.</h1>
 
 <p>
+<h2>👋 About me (click on the laptop): </h2>
+   <a target="_blank" href="https://yourunb.github.io/CV/"><img src="https://github.com/YourunB/Test1/blob/main/images/forCV.gif?raw=true" alt="PC" style="width: 100px;"></a>
+</p>
+
+<p>
   <h2>🔥 CodeWars:</h2>
   <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.codewars.com/users/rsschool_785da839e5c30a16"><img src="https://github.r2v.ch/codewars?user=rsschool_785da839e5c30a16" alt="Codewars" data-canonical-src="https://github.r2v.ch/codewars?user=rsschool_785da839e5c30a16" style="max-width: 100%;"></a></p>
 </p>
