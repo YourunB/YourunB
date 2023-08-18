@@ -5,10 +5,10 @@
   <h2>🔥CodeWars:</h2>
   <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.codewars.com/users/rsschool_785da839e5c30a16"><img src="https://github.r2v.ch/codewars?user=rsschool_785da839e5c30a16" alt="Codewars" data-canonical-src="https://github.r2v.ch/codewars?user=rsschool_785da839e5c30a16" style="max-width: 100%;"></a></p>
 </p>
-  <a target="_blank" href="https://codepen.io/BxYura/pens/public"><img src="https://raw.githubusercontent.com/YourunB/CV/93c96306f28516723ffb218863511a9794ba9194/assets/svg/codepen.svg" alt="CodePen" style="max-width: 60px;"></a>
+  
 <p>
   <h2>🛠️ CodePen: </h2>
-  
+  <a target="_blank" href="https://codepen.io/BxYura/pens/public"><img src="https://raw.githubusercontent.com/YourunB/CV/93c96306f28516723ffb218863511a9794ba9194/assets/svg/codepen.svg" alt="CodePen" style="max-width: 100px;"></a>
 </p>
 
 <p>
