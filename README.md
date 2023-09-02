@@ -8,7 +8,7 @@
 
 <p>
   <h2>🔥 CodeWars:</h2>
-  <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.codewars.com/users/rsschool_785da839e5c30a16"><img src="https://github.r2v.ch/codewars?user=rsschool_785da839e5c30a16" alt="Codewars" data-canonical-src="https://github.r2v.ch/codewars?user=rsschool_785da839e5c30a16" style="max-width: 100%;"></a></p>
+  <p><a href="https://www.codewars.com/users/rsschool_785da839e5c30a16"><img class="hidden dark:inline-block" src="https://www.codewars.com/users/rsschool_785da839e5c30a16/badges/large?logo=false"></a></p>
 </p>
   
 <p>
