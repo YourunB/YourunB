@@ -3,7 +3,8 @@
 
 <p>
 <h2>👋 About me: </h2>
-   <a target="_blank" href="https://yourunb.github.io/CV/"><img src="https://github.com/YourunB/Test1/blob/main/images/forCV.gif?raw=true" alt="PC" style="width: 100px;"></a>
+   <a target="_blank" href="https://yourunb.github.io/CV/"><img src="https://github.com/YourunB/Test1/blob/main/images/cv.png?raw=true" alt="CV" style="width: 100px;"></a>
+   <a target="_blank" href="https://www.linkedin.com/in/yury-butskevich-00b580262/"><img src="https://github.com/YourunB/Test1/blob/main/images/linkedin.png?raw=true" alt="Linkedin" style="width: 100px;"></a>
 </p>
 
 <p>
