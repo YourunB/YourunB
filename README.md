@@ -19,8 +19,7 @@
 
 <p>
   <h2>⚡ Skills:</h2>
-   <img src="assets/images/html.png" title="HTML" alt="HTML" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/html5.png" title="HTML5" alt="HTML5" width="40" height="40" style="max-width: 100%;">
+   <a target="_blank" href="https://yourunb.github.io/CV/"><img src="assets/images/html.png" title="HTML" alt="HTML" width="40" height="40" style="max-width: 100%;"><img src="assets/images/html5.png" title="HTML5" alt="HTML5" width="40" height="40" style="max-width: 100%;"></a>
    <img src="assets/images/css.png" title="CSS" alt="CSS" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/css3.png" title="CSS3" alt="CSS3" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/js.png" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;">
