@@ -18,10 +18,23 @@
 </p>
 
 <p>
-  <h2>⚡ Languages:</h2>
-  <img src="assets/images/html.png" title="HTML5" alt="HTML" width="40" height="40" style="max-width: 100%;">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" style="max-width: 100%;"></a> 
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;"></a>
+  <h2>⚡ Skills:</h2>
+   <img src="assets/images/html.png" title="HTML" alt="HTML" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/html5.png" title="HTML5" alt="HTML5" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/css.png" title="CSS" alt="CSS" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/css3.png" title="CSS3" alt="CSS3" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/js.png" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/db.png" title="Data Base" alt="Data Base" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/figma.png" title="Figma" alt="Figma" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/cdraw.png" title="CorelDRAW" alt="CorelDRAW" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/ps.png" title="PhotoShop" alt="PhotoShop" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/json.png" title="JSON" alt="JSON" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/api.png" title="API" alt="API" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/git.png" title="Git" alt="Git" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/jsx.png" title="JSX" alt="JSX" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/ts.png" title="Type Script" alt="Type Script" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/react.png" title="React" alt="React" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/vs.png" title="Visual Studio" alt="Visual Studio" width="40" height="40" style="max-width: 100%;">
 </p>
 
 <h2></h2>
