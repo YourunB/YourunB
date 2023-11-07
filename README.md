@@ -36,6 +36,7 @@
       <img src="assets/images/ts.png" title="Type Script" alt="Type Script" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/react.png" title="React" alt="React" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/vs.png" title="Visual Studio" alt="Visual Studio" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/perfect-pixel.png" title="Perfect Pixel" alt="Perfect Pixel" width="40" height="40" style="max-width: 100%;">
    </a>
 </p>
 
