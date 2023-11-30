@@ -10,16 +10,35 @@
 
 <div>
    <h2>My Projects:</h2>
-   <h4><a href="https://yourunb.github.io/WelcomePortfolio/">https://yourunb.github.io/WelcomePortfolio/</a></h4>
+   <h4><a href="https://yourunb.github.io/Free-To-Play/">Free To Play</a></h4>
+   Description: SPA is an application for searching for free games on the Internet<br/>
+   
+   <h4><a href="https://yourunb.github.io/Memory-Game/Memory-Game/">Game Train Brain</a></h4>
+   Description: Games for developing the memory abilities of our brain<br/>
+   
+   <h4><a href="https://yourunb.github.io/Image-Gallery/image-gallery/">Image Gallery</a></h4>
+   Description: Applications for viewing images and current new photos every day<br/>
+   
+   <h4><a href="https://yourunb.github.io/Rick_and_Morty/">Rick And Morty</a></h4>
+   Description: Applications for viewing information about all the characters of the cartoon Rick and Morty<br/>
+   
+   <h4><a href="https://yourunb.github.io/Audio-Player/">Music Player</a></h4>
+   Description: A simple, stylized audio player<br/>
+   
+   <h4><a href="https://yourunb.github.io/WheatherPlugin/">Wheather Plugin</a></h4>
+   Description: Embedded weather plugin for any website<br/>
+
+   <h4><a href="https://yourunb.github.io/NYC-Library/">NYC Library</a></h4>
+   Description: Educational project from the figma about the NYC Library<br/>
+   
+   <h4><a href="https://yourunb.github.io/First_project-stretch_ceilings/">Stretch Ceilings</a></h4>
+   Description: Web site about stretch ceilings<br/>
+   
+   <h4><a href="https://yourunb.github.io/WelcomePortfolio/">Welcome Portfolio/</a></h4>
+   Description: Creative welcome portfolio<br/>
+   
    <h4><a href="https://yourunb.github.io/CV/">Curriculum Vitae</a></h4>
-   <h6><a href="https://yourunb.github.io/Free-To-Play/">Free To Play</a></h6>
-   <div><a href="https://yourunb.github.io/Memory-Game/Memory-Game/">Game Train Brain</a></div>
-   <div><a href="https://yourunb.github.io/Image-Gallery/image-gallery/">Image Gallery</a></div>
-   <div><a href="https://yourunb.github.io/Rick_and_Morty/">Rick And Morty</a></div>
-   <div><a href="https://yourunb.github.io/Audio-Player/">Music Player</a></div>
-   <div><a href="https://yourunb.github.io/WheatherPlugin/">Wheather Plugin</a></div>
-   <div><a href="https://yourunb.github.io/NYC-Library/">NYC Library</a></div>
-   <div><a href="https://yourunb.github.io/First_project-stretch_ceilings/">Stretch Ceilings</a></div>
+   Description: My CV<br/>
 </div>
 
 <p>
