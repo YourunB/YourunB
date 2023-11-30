@@ -10,15 +10,15 @@
 
 <div>
    <h2>My Projects</h2>
-   <p><a href="https://yourunb.github.io/Free-To-Play/">Free To Play</a></p>
-   <p><a href="https://yourunb.github.io/Memory-Game/Memory-Game/">Game Train Brain</a></p>
-   <p><a href="https://yourunb.github.io/Image-Gallery/image-gallery/">Image Gallery</a></p>
-   <p><a href="https://yourunb.github.io/Rick_and_Morty/">Rick And Morty</a></p>
-   <p><a href="https://yourunb.github.io/Audio-Player/">Music Player</a></p>
-   <p><a href="https://yourunb.github.io/WheatherPlugin/">Wheather Plugin</a></p>
-   <p><a href="https://yourunb.github.io/NYC-Library/">NYC Library</a></p>
-   <p><a href="https://yourunb.github.io/First_project-stretch_ceilings/">Stretch Ceilings</a></p>
-   <p><a href="https://yourunb.github.io/CV/">Curriculum Vitae</a></p>
+   <div><a href="https://yourunb.github.io/Free-To-Play/">Free To Play</a></div>
+   <div><a href="https://yourunb.github.io/Memory-Game/Memory-Game/">Game Train Brain</a></div>
+   <div><a href="https://yourunb.github.io/Image-Gallery/image-gallery/">Image Gallery</a></div>
+   <div><a href="https://yourunb.github.io/Rick_and_Morty/">Rick And Morty</a></div>
+   <div><a href="https://yourunb.github.io/Audio-Player/">Music Player</a></div>
+   <div><a href="https://yourunb.github.io/WheatherPlugin/">Wheather Plugin</a></div>
+   <div><a href="https://yourunb.github.io/NYC-Library/">NYC Library</a></div>
+   <div><a href="https://yourunb.github.io/First_project-stretch_ceilings/">Stretch Ceilings</a></div>
+   <div><a href="https://yourunb.github.io/CV/">Curriculum Vitae</a></div>
 </div>
 
 <p>
