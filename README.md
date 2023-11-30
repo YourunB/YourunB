@@ -9,16 +9,6 @@
 </p>
 
 <p>
-  <h2>🔥 CodeWars:</h2>
-  <p><a href="https://www.codewars.com/users/rsschool_785da839e5c30a16"><img class="hidden dark:inline-block" src="https://www.codewars.com/users/rsschool_785da839e5c30a16/badges/large?logo=false"></a></p>
-</p>
-  
-<p>
-  <h2>🛠️ CodePen: </h2>
-  <a target="_blank" href="https://codepen.io/BxYura/pens/public"><img src="https://raw.githubusercontent.com/YourunB/CV/93c96306f28516723ffb218863511a9794ba9194/assets/svg/codepen.svg" alt="CodePen" style="width: 100px;"></a>
-</p>
-
-<p>
   <h2>⚡ Skills:</h2>
    <a target="_blank" href="https://yourunb.github.io/CV/">
       <img src="assets/images/html.png" title="HTML" alt="HTML" width="40" height="40" style="max-width: 100%;">
@@ -39,6 +29,23 @@
       <img src="assets/images/vs.png" title="Visual Studio" alt="Visual Studio" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/pixel-perfect.png" title="Perfect Pixel" alt="Perfect Pixel" width="40" height="40" style="max-width: 100%;">
    </a>
+</p>
+
+<div>
+   <h2>My Projects</h2>
+   <a href="https://yourunb.github.io/Free-To-Play/">Free To Play</a>
+   <a href="https://yourunb.github.io/Memory-Game/Memory-Game/">Game Train Brain</a>
+   <a href="https://yourunb.github.io/Image-Gallery/image-gallery/">Image Gallery</a>
+</div>
+
+<p>
+  <h2>🔥 CodeWars:</h2>
+  <p><a href="https://www.codewars.com/users/rsschool_785da839e5c30a16"><img class="hidden dark:inline-block" src="https://www.codewars.com/users/rsschool_785da839e5c30a16/badges/large?logo=false"></a></p>
+</p>
+  
+<p>
+  <h2>🛠️ CodePen: </h2>
+  <a target="_blank" href="https://codepen.io/BxYura/pens/public"><img src="https://raw.githubusercontent.com/YourunB/CV/93c96306f28516723ffb218863511a9794ba9194/assets/svg/codepen.svg" alt="CodePen" style="width: 100px;"></a>
 </p>
 
 <h2></h2>
