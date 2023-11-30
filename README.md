@@ -30,15 +30,23 @@
 
    <h4><a href="https://yourunb.github.io/NYC-Library/">NYC Library</a></h4>
    Description: Educational project from the figma about the NYC Library<br/>
+
+   <h4><a href="https://yourunb.github.io/PingPong/">Ping Pong</a></h4>
+   Description: Ping pong game made on canvas<br/>
    
    <h4><a href="https://yourunb.github.io/First_project-stretch_ceilings/">Stretch Ceilings</a></h4>
    Description: Web site about stretch ceilings<br/>
    
-   <h4><a href="https://yourunb.github.io/WelcomePortfolio/">Welcome Portfolio/</a></h4>
+   <h4><a href="https://yourunb.github.io/WelcomePortfolio/">Welcome Portfolio</a></h4>
    Description: Creative welcome portfolio<br/>
    
    <h4><a href="https://yourunb.github.io/CV/">Curriculum Vitae</a></h4>
    Description: My CV<br/>
+
+   <h4><a href="https://yourunb.github.io/cssMemeSlider/">Meme Slider</a></h4>
+   Description: Slider in pure HTML and CSS<br/>
+
+   <h4><a href="https://codepen.io/BxYura/pens/public">more projects...</a></h4>
 </div>
 
 <p>
