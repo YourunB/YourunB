@@ -9,8 +9,10 @@
 </p>
 
 <div>
-   <h2>My Projects</h2>
-   <div><a href="https://yourunb.github.io/Free-To-Play/">Free To Play</a></div>
+   <h2>My Projects:</h2>
+   <h4><a href="https://yourunb.github.io/WelcomePortfolio/">https://yourunb.github.io/WelcomePortfolio/</a></h4>
+   <h4><a href="https://yourunb.github.io/CV/">Curriculum Vitae</a></h4>
+   <h6><a href="https://yourunb.github.io/Free-To-Play/">Free To Play</a></h6>
    <div><a href="https://yourunb.github.io/Memory-Game/Memory-Game/">Game Train Brain</a></div>
    <div><a href="https://yourunb.github.io/Image-Gallery/image-gallery/">Image Gallery</a></div>
    <div><a href="https://yourunb.github.io/Rick_and_Morty/">Rick And Morty</a></div>
@@ -18,7 +20,6 @@
    <div><a href="https://yourunb.github.io/WheatherPlugin/">Wheather Plugin</a></div>
    <div><a href="https://yourunb.github.io/NYC-Library/">NYC Library</a></div>
    <div><a href="https://yourunb.github.io/First_project-stretch_ceilings/">Stretch Ceilings</a></div>
-   <div><a href="https://yourunb.github.io/CV/">Curriculum Vitae</a></div>
 </div>
 
 <p>
