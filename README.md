@@ -9,7 +9,7 @@
 </p>
 
 <div>
-   <h2>My Projects:</h2>
+   <h2>💡 My Projects:</h2>
    <h4><a href="https://yourunb.github.io/FinalSpace/">Final Space</a></h4>
    Description: React SPA about Final Space movie<br/>
    
