@@ -66,14 +66,14 @@
       <img src="assets/images/react.png" title="React" alt="React" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/db.png" title="Data Base" alt="Data Base" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/figma.png" title="Figma" alt="Figma" width="40" height="40" style="max-width: 100%;">
-      <img src="assets/images/cdraw.png" title="CorelDRAW" alt="CorelDRAW" width="40" height="40" style="max-width: 100%;">
-      <img src="assets/images/ps.png" title="PhotoShop" alt="PhotoShop" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/json.png" title="JSON" alt="JSON" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/api.png" title="API" alt="API" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/git.png" title="Git" alt="Git" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/jsx.png" title="JSX" alt="JSX" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/ts.png" title="Type Script" alt="Type Script" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/vs.png" title="Visual Studio" alt="Visual Studio" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/cdraw.png" title="CorelDRAW" alt="CorelDRAW" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/ps.png" title="PhotoShop" alt="PhotoShop" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/pixel-perfect.png" title="Perfect Pixel" alt="Perfect Pixel" width="40" height="40" style="max-width: 100%;">
    </a>
 </p>
