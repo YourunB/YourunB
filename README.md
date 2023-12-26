@@ -14,7 +14,7 @@
    Description: React SPA about Final Space movie<br/>
    
    <h4><a href="https://yourunb.github.io/Free-To-Play/">Free To Play</a></h4>
-   Description: SPA is an application for searching for free games on the Internet<br/>
+   Description: SPA designed in accordance with MVC is an application for searching for free games<br/>
 
    <h4><a href="https://yourunb.github.io/CoffeeHouse/">Coffee House</a></h4>
    Description: Web site about coffee and tea<br/>
