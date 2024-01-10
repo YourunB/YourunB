@@ -75,6 +75,7 @@
       <img src="assets/images/cdraw.png" title="CorelDRAW" alt="CorelDRAW" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/ps.png" title="PhotoShop" alt="PhotoShop" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/pixel-perfect.png" title="Perfect Pixel" alt="Perfect Pixel" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/webpack.png" title="WebPack" alt="WebPack" width="40" height="40" style="max-width: 100%;">
    </a>
 </p>
 
