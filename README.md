@@ -25,7 +25,7 @@
    <h4><a href="https://yourunb.github.io/Image-Gallery/image-gallery/">Image Gallery</a></h4>
    Description: Applications for viewing images and current new photos every day<br/>
 
-   <h4><a href="https://yourunb.github.io/hangman/">Hangman Game</a></h4>
+   <h4><a href="https://yourunb.github.io/Hangman-Game/">Hangman Game</a></h4>
    Description: A bright and exciting quiz game - hangman.<br/>
    
    <h4><a href="https://yourunb.github.io/Rick_and_Morty/">Rick And Morty</a></h4>
