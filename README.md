@@ -10,7 +10,7 @@
 
 <div>
    <h2>💡 My Projects:</h2>
-   <h4><a href="https://yourunb.github.io/FinalSpace/">Final Space</a></h4>
+   <h4><a href="https://yourunb.github.io/FinalSpace/">Final Space React App</a></h4>
    Description: React SPA about Final Space movie<br/>
    
    <h4><a href="https://yourunb.github.io/Free-To-Play/">Free To Play</a></h4>
@@ -18,6 +18,9 @@
 
    <h4><a href="https://yourunb.github.io/CoffeeHouse/">Coffee House</a></h4>
    Description: Web site about coffee and tea<br/>
+
+   <h4><a href="https://yourunb.github.io/Rick-and-Morty-on-React/">Rick and Morty React App</a></h4>
+   Description: React SPA about Rick and Morty movie<br/>
    
    <h4><a href="https://yourunb.github.io/Memory-Game/Memory-Game/">Game Train Brain</a></h4>
    Description: Games for developing the memory abilities of our brain<br/>
