@@ -3,8 +3,8 @@
 
 <div>
 <h2>📝 About me: </h2>
-   <a target="_blank" href="https://yourunb.github.io/WelcomePortfolio/"><img src="https://github.com/YourunB/Test1/blob/main/images/portfolio.png?raw=true" alt="Portfolio" style="width: 100px;"></a>
    <a target="_blank" href="https://yourunb.github.io/CV/"><img src="https://github.com/YourunB/Test1/blob/main/images/cv.png?raw=true" alt="CV" style="width: 100px;"></a>
+   <a target="_blank" href="https://yourunb.github.io/WelcomePortfolio/"><img src="https://github.com/YourunB/Test1/blob/main/images/portfolio.png?raw=true" alt="Portfolio" style="width: 100px;"></a>
    <a target="_blank" href="https://www.linkedin.com/in/yury-butskevich-00b580262/"><img src="https://github.com/YourunB/Test1/blob/main/images/linkedin.png?raw=true" alt="Linkedin" style="width: 100px;"></a>
 </div>
 
@@ -12,6 +12,9 @@
    <h2>💡 My Projects:</h2>
    <h4><a href="https://yourunb.github.io/FinalSpace/">Final Space React App</a></h4>
    Description: React SPA about Final Space movie<br/>
+   
+   <h4><a href="https://yourunb.github.io/Nonograms-Game/">Nonograms Game</a></h4>
+   Description: Japanese Crosswords - logic puzzles<br/>
    
    <h4><a href="https://yourunb.github.io/Free-To-Play/">Free To Play</a></h4>
    Description: SPA designed in accordance with MVC is an application for searching for free games<br/>
