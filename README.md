@@ -12,57 +12,75 @@
    <h2>💡 My Projects:</h2>
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/rss-puzzle/">Puzzle Game</a></h4>
    Description: SPA for learn English fun<br/>
+   Stack: <strong>TypeScript, Fetch, Webpack, HTML, CSS, JSON, Drag&Drop, LocalStorage, SPA</strong><br/>
    
    <h4><a href="https://yourunb.github.io/FinalSpace/">Final Space React App</a></h4>
    Description: React SPA about Final Space movie<br/>
+   Stack: <strong>React, Redux, Fetch, JavaScript, HTML, CSS, API, JSON, LocalStorage, Firebase, SPA</strong><br/>
    
    <h4><a href="https://yourunb.github.io/Nonograms-Game/">Nonograms Game</a></h4>
    Description: Japanese Crosswords - logic puzzles<br/>
+   Stack: <strong>TypeScript, Webpack, Fetch, HTML, CSS, JSON, LocalStorage, SPA</strong><br/>
    
    <h4><a href="https://yourunb.github.io/Free-To-Play/">Free To Play</a></h4>
    Description: SPA designed in accordance with MVC is an application for searching for free games<br/>
+   Stack: <strong>JavaScript, Fetch, MVC, HTML, CSS, API, JSON, LocalStorage, SPA, Firebase</strong><br/>
 
    <h4><a href="https://yourunb.github.io/CoffeeHouse/">Coffee House</a></h4>
    Description: Web site about coffee and tea<br/>
+   Stack: <strong>JavaScript, Figma, Fetch, JSON, LocalStorage, HTML, CSS</strong><br/>
 
    <h4><a href="https://yourunb.github.io/Rick-and-Morty-on-React/">Rick and Morty React App</a></h4>
    Description: React SPA about Rick and Morty movie<br/>
+   Stack: <strong>React, Redux, Fetch, JavaScript, HTML, SASS(SCSS), Firebase, SPA</strong><br/>
    
    <h4><a href="https://yourunb.github.io/Memory-Game/Memory-Game/">Game Train Brain</a></h4>
    Description: Games for developing the memory abilities of our brain<br/>
+   Stack: <strong>JavaScript, HTML, CSS, LocalStorage, SPA</strong><br/>
    
    <h4><a href="https://yourunb.github.io/Image-Gallery/image-gallery/">Image Gallery</a></h4>
    Description: Applications for viewing images and current new photos every day<br/>
+   Stack: <strong>JavaScript, Fetch, HTML, CSS, API, SPA</strong><br/>
 
    <h4><a href="https://yourunb.github.io/Hangman-Game/">Hangman Game</a></h4>
    Description: A bright and exciting quiz game - hangman.<br/>
+   Stack: <strong>JavaScript, HTML, CSS, SPA</strong><br/>
    
    <h4><a href="https://yourunb.github.io/Rick_and_Morty/">Rick And Morty</a></h4>
    Description: Applications for viewing information about all the characters of the cartoon Rick and Morty<br/>
+   Stack: <strong>JavaScript, HTML, CSS, SPA</strong><br/>
    
    <h4><a href="https://yourunb.github.io/Audio-Player/">Music Player</a></h4>
    Description: A simple, stylized audio player<br/>
+   Stack: <strong>JavaScript, HTML, CSS</strong><br/>
    
    <h4><a href="https://yourunb.github.io/WheatherPlugin/">Wheather Plugin</a></h4>
    Description: Embedded weather plugin for any website<br/>
+   Stack: <strong>JavaScript, Fetch, MVC, HTML, CSS</strong><br/>
 
    <h4><a href="https://yourunb.github.io/NYC-Library/">NYC Library</a></h4>
    Description: Educational project from the figma about the NYC Library<br/>
+   Stack: <strong>JavaScript, Figma, HTML, CSS</strong><br/>
 
    <h4><a href="https://yourunb.github.io/PingPong/">Ping Pong</a></h4>
    Description: Ping pong game made on canvas<br/>
+   Stack: <strong>JavaScript, Canvas, HTML, CSS</strong><br/>
    
    <h4><a href="https://yourunb.github.io/First_project-stretch_ceilings/">Stretch Ceilings</a></h4>
    Description: Web site about stretch ceilings<br/>
+   Stack: <strong>JavaScript, HTML, CSS</strong><br/>
    
    <h4><a href="https://yourunb.github.io/WelcomePortfolio/">Welcome Portfolio</a></h4>
    Description: Creative welcome portfolio<br/>
+   Stack: <strong>JavaScript, HTML, CSS, SPA</strong><br/>
    
    <h4><a href="https://yourunb.github.io/CV/">Curriculum Vitae</a></h4>
    Description: My CV<br/>
+   Stack: <strong>JavaScript, Drag&Drop, HTML, CSS</strong><br/>
 
    <h4><a href="https://yourunb.github.io/cssMemeSlider/">Meme Slider</a></h4>
    Description: Slider in pure HTML and CSS<br/>
+   Stack: <strong>HTML, CSS</strong><br/>
 
    <h4><a href="https://codepen.io/BxYura/pens/public">more projects...</a></h4>
 </div>
