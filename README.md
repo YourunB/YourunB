@@ -33,6 +33,10 @@
    <h4><a href="https://yourunb.github.io/Rick-and-Morty-on-React/">Rick and Morty React App</a></h4>
    Description: React SPA about Rick and Morty movie<br/>
    Stack: <strong>React, Redux, Fetch, JavaScript, HTML, SASS(SCSS), Firebase, SPA</strong><br/>
+
+   <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/news-api/">News</a></h4>
+   Description: SPA fo show news<br/>
+   Stack: <strong>TypeScript, Webpack, HTML, CSS, SPA</strong><br/>
    
    <h4><a href="https://yourunb.github.io/Memory-Game/Memory-Game/">Game Train Brain</a></h4>
    Description: Games for developing the memory abilities of our brain<br/>
