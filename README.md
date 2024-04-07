@@ -129,6 +129,6 @@
 <div>
    <a href="https://www.it-academy.by"><img src="https://github.com/YourunB/Test1/blob/main/images/ItAcademy.jpg?raw=true" alt="IT Academy" style="width: 100px;"></a>
    <a href="https://rs.school"><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 100px;"></a>
-   <a href="https://rs.school"><img src="https://github.com/YourunB/Test1/blob/main/images/freecodecamp.jpg?raw=true" alt="Freecodecamp" style="width: 100px;"></a>
-   <a href="https://rs.school"><img src="https://github.com/YourunB/Test1/blob/main/images/vk.jpg?raw=true" alt="VK Education" style="width: 100px;"></a>
+   <a href="https://www.freecodecamp.org/"><img src="https://github.com/YourunB/Test1/blob/main/images/freecodecamp.jpg?raw=true" alt="Freecodecamp" style="width: 100px;"></a>
+   <a href="https://education.vk.company/"><img src="https://github.com/YourunB/Test1/blob/main/images/vk.jpg?raw=true" alt="VK Education" style="width: 100px;"></a>
 </div>
