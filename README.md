@@ -8,9 +8,9 @@
    <a target="_blank" href="https://www.linkedin.com/in/yury-butskevich-00b580262/"><img src="https://github.com/YourunB/Test1/blob/main/images/linkedin.png?raw=true" alt="Linkedin" style="width: 100px;"></a>
 </div>
 
-<p>
+<div>
   <h2>⚡ Skills:</h2>
-   <a target="_blank" href="https://yourunb.github.io/CV/">
+   <a target="_blank" href="https://yourunb.github.io/CV/" align="center">
       <img src="assets/images/html.png" title="HTML" alt="HTML" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/html5.png" title="HTML5" alt="HTML5" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/css.png" title="CSS" alt="CSS" width="40" height="40" style="max-width: 100%;">
@@ -30,7 +30,7 @@
       <img src="assets/images/pixel-perfect.png" title="Perfect Pixel" alt="Perfect Pixel" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/webpack.png" title="WebPack" alt="WebPack" width="40" height="40" style="max-width: 100%;">
    </a>
-</p>
+</div>
 
 <div>
    <h2>💡 My Projects:</h2>
