@@ -115,18 +115,20 @@
    <h4><a href="https://codepen.io/BxYura/pens/public">more projects...</a></h4>
 </div>
 
-<p>
+<div>
   <h2>🔥 CodeWars:</h2>
   <p><a href="https://www.codewars.com/users/rsschool_785da839e5c30a16"><img class="hidden dark:inline-block" src="https://www.codewars.com/users/rsschool_785da839e5c30a16/badges/large?logo=false"></a></p>
-</p>
+</div>
   
-<p>
+<div>
   <h2>🛠️ CodePen: </h2>
   <a target="_blank" href="https://codepen.io/BxYura/pens/public"><img src="https://raw.githubusercontent.com/YourunB/CV/93c96306f28516723ffb218863511a9794ba9194/assets/svg/codepen.svg" alt="CodePen" style="width: 100px;"></a>
-</p>
+</div>
 
-<h2></h2>
-<p>
-  <a href="https://www.it-academy.by"><img src="https://github.com/YourunB/Test1/blob/main/images/ItAcademy.jpg?raw=true" alt="IT Academy" style="width: 100px;"></a>
-  <a href="https://rs.school"><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 100px;"></a>
-</p>
+<h2>🎓 Studied IT courses:</h2>
+<div>
+   <a href="https://www.it-academy.by"><img src="https://github.com/YourunB/Test1/blob/main/images/ItAcademy.jpg?raw=true" alt="IT Academy" style="width: 100px;"></a>
+   <a href="https://rs.school"><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 100px;"></a>
+   <a href="https://rs.school"><img src="https://github.com/YourunB/Test1/blob/main/images/freecodecamp.jpg?raw=true" alt="Freecodecamp" style="width: 100px;"></a>
+   <a href="https://rs.school"><img src="https://github.com/YourunB/Test1/blob/main/images/vk.jpg?raw=true" alt="VK Education" style="width: 100px;"></a>
+</div>
