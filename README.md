@@ -76,7 +76,7 @@
    Description: Applications for viewing information about all the characters of the cartoon Rick and Morty<br/>
    Stack: <strong>JavaScript, AJAX, HTML, CSS, API, SPA</strong><br/>
 
-   <h4><a href="https://github.com/YourunB/kapibara-lab">Kapibara Lab</a></h4>
+   <h4><a href="https://yourunb.github.io/kapibara-lab/">Kapibara Lab</a></h4>
    Description: React App about kapibara laboratory<br/>
    Stack: <strong>React, JavaScript, Webpack, HTML, SASS</strong><br/>
 
