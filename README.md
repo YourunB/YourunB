@@ -11,9 +11,13 @@
 <h2>⚡ Skills:</h2>
 <div align="center">
    <img src="assets/images/react.png" title="React" alt="React" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/ts.png" title="Type Script" alt="Type Script" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/redux.png" title="Redux" alt="Redux" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/ts.png" title="TypeScript" alt="TypeScript" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/git.png" title="Git" alt="Git" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/webpack.png" title="WebPack" alt="WebPack" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/sass.png" title="SASS(SCSS)" alt="SASS(SCSS)" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/websocket.png" title="WebSocket" alt="WebSocket" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/rest.png" title="REST API" alt="REST API" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/html5.png" title="HTML5" alt="HTML5" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/css3.png" title="CSS3" alt="CSS3" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/js.png" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;">
