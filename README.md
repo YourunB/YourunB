@@ -26,10 +26,9 @@
    <img src="assets/images/json.png" title="JSON" alt="JSON" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/api.png" title="API" alt="API" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/jsx.png" title="JSX" alt="JSX" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/vs.png" title="Visual Studio" alt="Visual Studio" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/phyton.png" title="Phyton" alt="Phyton" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/pixel-perfect.png" title="Perfect Pixel" alt="Perfect Pixel" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/ps.png" title="PhotoShop" alt="PhotoShop" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/cdraw.png" title="CorelDRAW" alt="CorelDRAW" width="40" height="40" style="max-width: 100%;">
 </div>
 
 <div>
