@@ -1,4 +1,4 @@
-<p align="center"><a target="_blank" href="https://yourunb.github.io/WelcomePortfolio/"><img src="https://github.com/YourunB/Test1/blob/main/images/frontend2.png?raw=true" alt="Frontend development" width="300"/></a></p>
+<p align="center"><a target="_blank" href="https://yourunb.github.io/WelcomePortfolio/"><img src="https://github.com/YourunB/Test1/blob/main/images/frontend.png?raw=true" alt="Frontend development" width="300"/></a></p>
 <h1 align="center">Hello!<img src="https://github.com/YourunB/YourunB/blob/main/assets/images/hand-hi.gif?raw=true" width="30" style="max-width: 100%;">I am Yury,<br/><a href="https://yourunb.github.io/WelcomePortfolio/">Front-End developer</a>.</h1>
 
 <h2>📝 About me: </h2>
