@@ -11,7 +11,7 @@
 </h2>
 
 <h2>⚡ Skills:
-   <br>
+
    <div align="center">
       <img src="assets/images/react.png" title="React" alt="React" width="40" height="40" style="max-width: 100%;">
       <img src="assets/images/redux.png" title="Redux" alt="Redux" width="40" height="40" style="max-width: 100%;">
