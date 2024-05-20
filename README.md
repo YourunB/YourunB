@@ -38,7 +38,7 @@
    Description: SPA for learn English fun<br/>
    Stack: <strong>TypeScript, Fetch, Webpack, HTML, CSS, JSON, Drag&Drop, LocalStorage, SPA</strong><br/>
 
-   <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/rss-puzzle/">Chat</a></h4>
+   <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/fun-chat/">Chat</a></h4>
    Description: chat for communication is implemented on webSocket (open <a href="https://github.com/YourunB/fun-chat-server">API</a> for work app)<br/>
    Stack: <strong>WebSocket, TypeScript, Webpack, HTML, SASS, SessionStorage, SPA</strong><br/>
    
