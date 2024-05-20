@@ -39,7 +39,7 @@
    Stack: <strong>TypeScript, Fetch, Webpack, HTML, CSS, JSON, Drag&Drop, LocalStorage, SPA</strong><br/>
 
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/rss-puzzle/">Chat</a></h4>
-   Description: chat for communication is implemented on webSocket (<a href="https://github.com/YourunB/fun-chat-server">open API</a>)<br/>
+   Description: chat for communication is implemented on webSocket (open <a href="https://github.com/YourunB/fun-chat-server">API</a> for work app)<br/>
    Stack: <strong>WebSocket, TypeScript, Webpack, HTML, SASS, SessionStorage, SPA</strong><br/>
    
    <h4><a href="https://yourunb.github.io/FinalSpace/">Final Space React App</a></h4>
@@ -61,6 +61,10 @@
    <h4><a href="https://yourunb.github.io/Rick-and-Morty-on-React/">Rick and Morty React App</a></h4>
    Description: React SPA about Rick and Morty movie<br/>
    Stack: <strong>React, Redux, Fetch, JavaScript, HTML, SASS(SCSS), Firebase, SPA</strong><br/>
+
+   <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/async-race/">Async Race</a></h4>
+   Description: car racing, asynchronous programming (open <a href="https://github.com/YourunB/async-race-api">API</a> for work app)<br/>
+   Stack: <strong>TypeScript, Webpack, REST, HTML, CSS, LocalStorage, SPA</strong><br/>
 
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/news-api/">News</a></h4>
    Description: SPA fo show news<br/>
