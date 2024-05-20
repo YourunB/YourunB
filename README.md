@@ -2,12 +2,13 @@
 <p align="center"><a target="_blank" href="https://yourunb.github.io/WelcomePortfolio/"><img src="https://github.com/YourunB/Test1/blob/main/images/frontend.png?raw=true" alt="Frontend development" width="300"/></a></p>
 <h1 align="center">Hello!<img src="https://github.com/YourunB/YourunB/blob/main/assets/images/hand-hi.gif?raw=true" width="30" style="max-width: 100%;">I am Yury,<br/><a href="https://yourunb.github.io/WelcomePortfolio/">Front-End developer</a>.</h1>
 
-<h2>📝 About me: </h2>
-<div align="center">
-   <a target="_blank" href="https://yourunb.github.io/CV/"><img src="https://github.com/YourunB/Test1/blob/main/images/cv.png?raw=true" alt="CV" style="width: 100px;"></a>
-   <a target="_blank" href="https://yourunb.github.io/WelcomePortfolio/"><img src="https://github.com/YourunB/Test1/blob/main/images/portfolio.png?raw=true" alt="Portfolio" style="width: 100px;"></a>
-   <a target="_blank" href="https://www.linkedin.com/in/yury-butskevich-00b580262/"><img src="https://github.com/YourunB/Test1/blob/main/images/linkedin.png?raw=true" alt="Linkedin" style="width: 100px;"></a>
-</div>
+<h2>📝 About me: 
+   <div align="center">
+      <a target="_blank" href="https://yourunb.github.io/CV/"><img src="https://github.com/YourunB/Test1/blob/main/images/cv.png?raw=true" alt="CV" style="width: 100px;"></a>
+      <a target="_blank" href="https://yourunb.github.io/WelcomePortfolio/"><img src="https://github.com/YourunB/Test1/blob/main/images/portfolio.png?raw=true" alt="Portfolio" style="width: 100px;"></a>
+      <a target="_blank" href="https://www.linkedin.com/in/yury-butskevich-00b580262/"><img src="https://github.com/YourunB/Test1/blob/main/images/linkedin.png?raw=true" alt="Linkedin" style="width: 100px;"></a>
+   </div>
+</h2>
 
 <h2>⚡ Skills:</h2>
 <div align="center">
