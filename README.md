@@ -10,28 +10,29 @@
    </div>
 </h2>
 
-<h2>⚡ Skills:</h2>
-<div align="center">
-   <img src="assets/images/react.png" title="React" alt="React" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/redux.png" title="Redux" alt="Redux" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/ts.png" title="TypeScript" alt="TypeScript" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/js.png" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/git.png" title="Git" alt="Git" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/webpack.png" title="WebPack" alt="WebPack" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/sass.png" title="SASS(SCSS)" alt="SASS(SCSS)" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/websocket.png" title="WebSocket" alt="WebSocket" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/rest.png" title="REST API" alt="REST API" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/html5.png" title="HTML5" alt="HTML5" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/css3.png" title="CSS3" alt="CSS3" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/db.png" title="Data Base" alt="Data Base" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/figma.png" title="Figma" alt="Figma" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/json.png" title="JSON" alt="JSON" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/api.png" title="API" alt="API" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/jsx.png" title="JSX" alt="JSX" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/phyton.png" title="Phyton" alt="Phyton" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/pixel-perfect.png" title="Perfect Pixel" alt="Perfect Pixel" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/ps.png" title="PhotoShop" alt="PhotoShop" width="40" height="40" style="max-width: 100%;">
-</div>
+<h2>⚡ Skills:
+   <div align="center">
+      <img src="assets/images/react.png" title="React" alt="React" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/redux.png" title="Redux" alt="Redux" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/ts.png" title="TypeScript" alt="TypeScript" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/js.png" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/git.png" title="Git" alt="Git" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/webpack.png" title="WebPack" alt="WebPack" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/sass.png" title="SASS(SCSS)" alt="SASS(SCSS)" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/websocket.png" title="WebSocket" alt="WebSocket" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/rest.png" title="REST API" alt="REST API" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/html5.png" title="HTML5" alt="HTML5" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/css3.png" title="CSS3" alt="CSS3" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/db.png" title="Data Base" alt="Data Base" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/figma.png" title="Figma" alt="Figma" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/json.png" title="JSON" alt="JSON" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/api.png" title="API" alt="API" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/jsx.png" title="JSX" alt="JSX" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/phyton.png" title="Phyton" alt="Phyton" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/pixel-perfect.png" title="Perfect Pixel" alt="Perfect Pixel" width="40" height="40" style="max-width: 100%;">
+      <img src="assets/images/ps.png" title="PhotoShop" alt="PhotoShop" width="40" height="40" style="max-width: 100%;">
+   </div>
+</h2>
 
 <div>
    <h2>💡 My Projects:</h2>
