@@ -36,11 +36,11 @@
 <div>
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/rss-puzzle/">Puzzle Game</a></h4>
    Description: SPA for learn English fun<br/>
-   Stack: <strong>TypeScript, Fetch, Webpack, HTML, CSS, JSON, Drag&Drop, LocalStorage, SPA</strong><br/>
+   Stack: <strong>TypeScript, JavaScript, Webpack, Fetch, HTML, CSS, JSON, Drag&Drop, LocalStorage, SPA</strong><br/>
 
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/fun-chat/">Chat</a></h4>
    Description: chat for communication is implemented on webSocket (open <a href="https://github.com/YourunB/fun-chat-server">API</a> for work app)<br/>
-   Stack: <strong>WebSocket, TypeScript, Webpack, HTML, SASS, SessionStorage, SPA</strong><br/>
+   Stack: <strong>WebSocket, TypeScript, JavaScript, Webpack, HTML, SASS, SessionStorage, SPA</strong><br/>
    
    <h4><a href="https://yourunb.github.io/FinalSpace/">Final Space React App</a></h4>
    Description: React SPA about Final Space movie<br/>
@@ -48,7 +48,7 @@
    
    <h4><a href="https://yourunb.github.io/Nonograms-Game/">Nonograms Game</a></h4>
    Description: Japanese Crosswords - logic puzzles<br/>
-   Stack: <strong>TypeScript, Webpack, Fetch, HTML, CSS, JSON, LocalStorage, SPA</strong><br/>
+   Stack: <strong>TypeScript, JavaScript, Webpack, Fetch, HTML, CSS, JSON, LocalStorage, SPA</strong><br/>
    
    <h4><a href="https://yourunb.github.io/Free-To-Play/">Free To Play</a></h4>
    Description: SPA designed in accordance with MVC is an application for searching for free games<br/>
@@ -64,11 +64,11 @@
 
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/async-race/">Async Race</a></h4>
    Description: car racing, asynchronous programming (open <a href="https://github.com/YourunB/async-race-api">API</a> for work app)<br/>
-   Stack: <strong>TypeScript, Webpack, REST, HTML, CSS, LocalStorage, SPA</strong><br/>
+   Stack: <strong>TypeScript, Webpack, JavaScript, REST, HTML, CSS, LocalStorage, SPA</strong><br/>
 
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/news-api/">News</a></h4>
    Description: SPA fo show news<br/>
-   Stack: <strong>TypeScript, Webpack, HTML, CSS, SPA</strong><br/>
+   Stack: <strong>TypeScript, JavaScript, Webpack, HTML, CSS, SPA</strong><br/>
    
    <h4><a href="https://yourunb.github.io/Memory-Game/Memory-Game/">Game Train Brain</a></h4>
    Description: Games for developing the memory abilities of our brain<br/>
