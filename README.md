@@ -106,6 +106,10 @@
    Description: Educational project from the figma about the NYC Library<br/>
    Stack: <strong>JavaScript, Figma, HTML, CSS</strong><br/>
 
+   <h4><a href="https://yourunb.github.io/earn-money/">Earn money</a></h4>
+   Description: Landing for earn money<br/>
+   Stack: <strong>TypeScript, Webpack, JavaScript, HTML, SASS</strong><br/>
+
    <h4><a href="https://yourunb.github.io/test-routing/">Routing SPA in Github</a></h4>
    Description: This is my test application with fully implemented routing for SPA on Github without using any third party libraries.<br/>
    Stack: <strong>TypeScript, JavaScript, Webpack, SPA, Git, HTML, SASS</strong><br/>
