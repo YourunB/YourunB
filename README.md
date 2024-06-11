@@ -1,14 +1,14 @@
 <h1 align="center">Hello!<img src="https://github.com/YourunB/YourunB/blob/main/assets/images/hand-hi.gif?raw=true" width="30" style="max-width: 100%;">I am Yury,<br/><a href="https://yourunb.github.io/WelcomePortfolio/">Frontend developer</a>.</h1>
 <p align="center"><a target="_blank" href="https://yourunb.github.io/WelcomePortfolio/"><img src="https://github.com/YourunB/Test1/blob/main/images/frontend.png?raw=true" alt="Frontend development" width="300"/></a></p>
 
-<h2>📝 About me:</h2>
+<h2>↘️ About me:</h2>
 <div align="center">
    <a target="_blank" href="https://yourunb.github.io/CV/"><img src="https://github.com/YourunB/Test1/blob/main/images/cv.png?raw=true" alt="CV" style="width: 100px;"></a>
    <a target="_blank" href="https://yourunb.github.io/WelcomePortfolio/"><img src="https://github.com/YourunB/Test1/blob/main/images/portfolio.png?raw=true" alt="Portfolio" style="width: 100px;"></a>
    <a target="_blank" href="https://www.linkedin.com/in/yury-butskevich-00b580262/"><img src="https://github.com/YourunB/Test1/blob/main/images/linkedin.png?raw=true" alt="Linkedin" style="width: 100px;"></a>
 </div>
 
-<h2>⚡ Skills:</h2>
+<h2>↘️ Skills:</h2>
 <div align="center">
    <img src="assets/images/react.png" title="React" alt="React" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/redux.png" title="Redux" alt="Redux" width="40" height="40" style="max-width: 100%;">
@@ -32,7 +32,7 @@
 </div>
 
 
-<h2>💡 My Projects:</h2>
+<h2>↘️ My Projects:</h2>
 <div>
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/rss-puzzle/">Puzzle Game</a></h4>
    Description: SPA for learn English fun<br/>
@@ -142,12 +142,12 @@
 </div>
    
 <div>
-   <h2>🔥 CodeWars:</h2>
+   <h2>↘️ CodeWars:</h2>
    <p><a href="https://www.codewars.com/users/rsschool_785da839e5c30a16"><img class="hidden dark:inline-block" src="https://www.codewars.com/users/rsschool_785da839e5c30a16/badges/large?logo=false"></a></p>
 </div>
 
 <div>
-  <h2>🛠️ CodePen: </h2>
+  <h2>↘️ CodePen: </h2>
   <a target="_blank" href="https://codepen.io/BxYura/pens/public"><img src="https://raw.githubusercontent.com/YourunB/CV/93c96306f28516723ffb218863511a9794ba9194/assets/svg/codepen.svg" alt="CodePen" style="width: 100px;"></a>
 </div>
 
@@ -159,7 +159,7 @@
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 30px;"> RS School (duration: 5 month) - <a href="https://app.rs.school/certificate/v2s8zsd2">JavaScript/Front-end. Pre-School</a> (score: 1125.7 / 1135)</h4>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 30px;"> RS School (duration: 9 month) - <a href="https://app.rs.school/certificate/v2s8zsd2">JavaScript/Front-end. Stage 1 & Stage 2</a> (in progress)</h4>
 
-<h2>📗 Studied IT courses:</h2>
+<h2>↘️ Studied IT courses:</h2>
 <div>
    <a href="https://www.it-academy.by"><img src="https://github.com/YourunB/Test1/blob/main/images/ItAcademy.jpg?raw=true" alt="IT Academy" style="width: 100px;"></a>
    <a href="https://rs.school"><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 100px;"></a>
