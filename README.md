@@ -151,7 +151,14 @@
   <a target="_blank" href="https://codepen.io/BxYura/pens/public"><img src="https://raw.githubusercontent.com/YourunB/CV/93c96306f28516723ffb218863511a9794ba9194/assets/svg/codepen.svg" alt="CodePen" style="width: 100px;"></a>
 </div>
 
-<h2>🎓 Studied IT courses:</h2>
+<h2>🎓 IT certificates:</h2>
+<h4>IT Academy (duration: 3 month) - <a href="https://yourunb.github.io/CV/assets/img/fd3.jpg">Web application development using React</a> (score: 10 / 10)</h4>
+<h4>IT Academy (duration: 3 month) - <a href="https://yourunb.github.io/CV/assets/img/fd2.jpg">Web application development with JavaScript</a> (score: 10 / 10)</h4>
+<h4>IT Academy (duration: 3 month) - <a href="https://yourunb.github.io/CV/assets/img/fd1.jpg">Website development with HTML, CSS & JavaScript</a> (score: 10 / 10)</h4>
+<h4>RS School (duration: 5 month) - <a href="https://app.rs.school/certificate/v2s8zsd2">JavaScript/Front-end. Pre-School 2023Q2</a> (score: 1125.7 / 1135)</h4>
+<h4>RS School (duration: 9 month) - <a href="https://app.rs.school/certificate/v2s8zsd2">JavaScript/Front-end. Stage 1 & Stage 2</a> (score: 1125.7 / 1135)</h4>
+
+<h2>📗 Studied IT courses:</h2>
 <div>
    <a href="https://www.it-academy.by"><img src="https://github.com/YourunB/Test1/blob/main/images/ItAcademy.jpg?raw=true" alt="IT Academy" style="width: 100px;"></a>
    <a href="https://rs.school"><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 100px;"></a>
