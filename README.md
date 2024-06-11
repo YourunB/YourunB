@@ -159,7 +159,7 @@
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 30px;"> RS School (duration: 5 month) - <a href="https://app.rs.school/certificate/v2s8zsd2">JavaScript/Front-end. Pre-School</a> (score: 1125.7 / 1135)</h4>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 30px;"> RS School (duration: 9 month) - <a href="https://app.rs.school/certificate/v2s8zsd2">JavaScript/Front-end. Stage 1 & Stage 2</a> (in progress)</h4>
 
-<h2>↘️ Studied IT courses:</h2>
+<h2>↘️ IT courses:</h2>
 <div>
    <a href="https://www.it-academy.by"><img src="https://github.com/YourunB/Test1/blob/main/images/ItAcademy.jpg?raw=true" alt="IT Academy" style="width: 100px;"></a>
    <a href="https://rs.school"><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 100px;"></a>
