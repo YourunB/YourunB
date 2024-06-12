@@ -38,7 +38,7 @@
    Description: SPA for learn English fun<br/>
    Stack: <strong>TypeScript, JavaScript, Webpack, Drag&Drop, Fetch, HTML, CSS, JSON, Git, REST, LocalStorage, esLint, Prettier, Husky, Animation, SPA</strong><br/>
 
-   <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/fun-chat/">Chat</a></h4>
+   <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/fun-chat/">Chat</a> + <a href="https://github.com/YourunB/fun-chat-server">backend API</a></h4>
    Description: chat for communication is implemented on webSocket (<a href="https://github.com/YourunB/fun-chat-server"><b>API</b></a> for work app)<br/>
    Stack: <strong>WebSocket, TypeScript, JavaScript, Webpack, SessionStorage, Git, HTML, SASS, esLint, Prettier, Husky, Animation, SPA</strong><br/>
    
@@ -62,7 +62,7 @@
    Description: React SPA about Rick and Morty movie<br/>
    Stack: <strong>React, Redux, Firebase, Fetch, JavaScript, REST, Git, HTML, SASS(SCSS), Animation, SPA</strong><br/>
 
-   <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/async-race/">Async Race</a></h4>
+   <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/async-race/">Async Race</a> + <a href="https://github.com/YourunB/async-race-api">backend API</a></h4>
    Description: car racing, asynchronous programming (<a href="https://github.com/YourunB/async-race-api"><b>API</b></a> for work app)<br/>
    Stack: <strong>TypeScript, Webpack, JavaScript, REST, HTML, CSS, LocalStorage, esLint, Prettier, Husky, Animation, SPA</strong><br/>
 
