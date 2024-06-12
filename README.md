@@ -167,4 +167,5 @@
    <a href="https://www.freecodecamp.org/"><img src="https://github.com/YourunB/Test1/blob/main/images/freecodecamp.jpg?raw=true" alt="Freecodecamp" style="width: 100px;"></a>
    <a href="https://education.vk.company/"><img src="https://github.com/YourunB/Test1/blob/main/images/vk.jpg?raw=true" alt="VK Education" style="width: 100px;"></a>
    <a href="https://explore.skillbuilder.aws/learn"><img src="https://raw.githubusercontent.com/YourunB/Test1/main/images/aws.png" alt="AWS" style="width: 100px;"></a>
+   <a href="https://learn.microsoft.com/ru-ru/training/"><img src="https://github.com/YourunB/Test1/blob/main/images/microsoft.jpg?raw=true" alt="Microsoft" style="width: 100px;"></a>
 </div>
