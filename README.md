@@ -153,7 +153,7 @@
 
 <h2>↘️ IT certificates:</h2>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/ItAcademy.jpg?raw=true" alt="IT Academy" style="width: 30px;"> IT Academy (duration: 3 month) - <a href="https://yourunb.github.io/CV/assets/img/fd3.jpg">Web application development using React</a> (score: 10 / 10)</h4>
-<h4><img src="https://github.com/YourunB/Test1/blob/main/images/ItAcademy.jpg?raw=true" alt="IT Academy" style="width: 30px;"> IT Academy (duration: 3 month) - <a href="https://yourunb.github.io/CV/assets/img/fd2.jpg">Web application development with JavaScript</a> (score: 10 / 10)</h4>
+<h4><img src="https://github.com/YourunB/Test1/blob/main/images/ItAcademy.jpg?raw=true" alt="IT Academy" style="width: 30px;"> IT Academy (duration: 4 month) - <a href="https://yourunb.github.io/CV/assets/img/fd2.jpg">Web application development with JavaScript</a> (score: 10 / 10)</h4>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/ItAcademy.jpg?raw=true" alt="IT Academy" style="width: 30px;"> IT Academy (duration: 3 month) - <a href="https://yourunb.github.io/CV/assets/img/fd1.jpg">Website development with HTML, CSS & JavaScript</a> (score: 10 / 10)</h4>
 <h4><img src="https://raw.githubusercontent.com/YourunB/Test1/main/images/aws.png" alt="AWS" style="width: 30px;"> Amazon Web Services (duration: 1 week) - <a href="https://yourunb.github.io/CV/assets/img/AWS-1.jpg">Getting Started with Cloud Acquisition</a></h4>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/microsoft.jpg?raw=true" alt="Microsoft" style="width: 30px;"> Microsoft (duration: 2 week) - <a href="https://learn.microsoft.com/en-gb/users/yury-1685/achievements/yvhj45er">Build JavaScript applications using TypeScript</h4>
