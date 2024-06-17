@@ -90,7 +90,7 @@
    Description: React App about kapibara laboratory<br/>
    Stack: <strong>React, Webpack, Figma, Git, JavaScript, HTML, SASS, esLint, Prettier, Husky</strong><br/>
 
-   <h4><a href="https://yourunb.github.io/company-projects/">Real Estate</a></h4>
+   <h4><a href="https://yourunb.github.io/company-projects/">Company projects</a></h4>
    Description: Landing for company projects<br/>
    Stack: <strong>JavaScript, HTML, CSS, Git, Animation, esLint, Prettier, Husky</strong><br/>
 
