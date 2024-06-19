@@ -46,7 +46,7 @@
    Description: React SPA about Final Space movie<br/>
    Stack: <strong>React, Redux, Firebase, Fetch, REST, JavaScript, LocalStorage, Git, HTML, CSS, API, JSON, Animation, SPA</strong><br/>
 
-   <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/ecommerce/">Chat</a> - work of my team (<a href="https://github.com/yourunb">Yury</a>, <a href="https://github.com/k98940">Kostya</a>, <a href="https://github.com/timoshenkovanadya">Nadya</a>)</h4>
+   <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/ecommerce/">Plants Shop</a> - work of my team (<a href="https://github.com/yourunb">Yury</a>, <a href="https://github.com/k98940">Kostya</a>, <a href="https://github.com/timoshenkovanadya">Nadya</a>)</h4>
    Description: SPA plants shop<br/>
    Stack: <strong>TypeScript, JavaScript, Webpack, REST, HTML, SASS, LocalStorage, SessionStorage, Git, esLint, Prettier, Husky, Jest, Routing, Animation, SPA</strong><br/>
    
