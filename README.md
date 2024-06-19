@@ -48,7 +48,7 @@
 
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/ecommerce/">Plants Shop</a> - work of my team (<a href="https://github.com/yourunb">Yury</a>, <a href="https://github.com/k98940">Kostya</a>, <a href="https://github.com/timoshenkovanadya">Nadya</a>)</h4>
    Description: this is final project from education Stage 2 in <a href="https://rs.school/">RS School</a> (course duration 9 month) - team work (my role: frontend developer + team lead)<br/>
-   Stack: <strong>TypeScript, JavaScript, Webpack, REST, HTML, SASS, LocalStorage, SessionStorage, Git, esLint, Prettier, Husky, Jest, Routing, Animation, SPA</strong><br/>
+   Stack: <strong>TypeScript, JavaScript, Webpack, REST, API Commerce Tools, Swiper, Trello, HTML, SASS, LocalStorage, SessionStorage, Git, esLint, Prettier, Husky, Jest, Routing, Animation, SPA, Agile(Scrum)</strong><br/>
    
    <h4><a href="https://yourunb.github.io/Nonograms-Game/">Nonograms Game</a></h4>
    Description: Japanese Crosswords - logic puzzles<br/>
@@ -56,7 +56,7 @@
    
    <h4><a href="https://yourunb.github.io/Free-To-Play/">Free To Play</a></h4>
    Description: SPA designed in accordance with MVC is an application for searching for free games<br/>
-   Stack: <strong>JavaScript, Firebase, MVC, Fetch, LocalStorage, REST, Git, HTML, CSS, API, JSON, Animation, SPA, Agile(Scrum)</strong><br/>
+   Stack: <strong>JavaScript, Firebase, MVC, Fetch, LocalStorage, REST, Git, HTML, CSS, API, JSON, Animation, SPA</strong><br/>
 
    <h4><a href="https://yourunb.github.io/CoffeeHouse/">Coffee House</a></h4>
    Description: Web site about coffee and tea<br/>
