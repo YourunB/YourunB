@@ -48,7 +48,7 @@
 
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/ecommerce/">Plants Shop</a> - team work (<a href="https://github.com/yourunb">Yury</a> - frontend / team lead, <a href="https://github.com/k98940">Kostya</a> - frontend, <a href="https://github.com/timoshenkovanadya">Nadya</a> - frontend)</h4>
    Description: this is final project for team work from education Stage 2 in <a href="https://rs.school/">RS School</a> (course duration 9 month)<br/>
-   Stack: <strong>TypeScript, JavaScript, Webpack, REST, API Commerce Tools, Swiper, Trello, HTML, SASS, LocalStorage, SessionStorage, Git, esLint, Prettier, Husky, Jest, Routing, Animation, SPA, Agile(Scrum)</strong><br/>
+   Stack: <strong>TypeScript, JavaScript, Webpack, REST, API Commerce Tools, Swiper, Trello, HTML, SASS, LocalStorage, SessionStorage, Git, Fetch, esLint, Prettier, Husky, Jest, Routing, Animation, SPA, Agile(Scrum)</strong><br/>
    
    <h4><a href="https://yourunb.github.io/Nonograms-Game/">Nonograms Game</a></h4>
    Description: Japanese Crosswords - logic puzzles<br/>
