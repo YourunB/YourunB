@@ -40,7 +40,7 @@
 
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/fun-chat/">Chat</a> + for work backend <a href="https://github.com/YourunB/fun-chat-server">API</a></h4>
    Description: chat for communication is implemented on webSocket (<a href="https://github.com/YourunB/fun-chat-server"><b>API</b></a> for work app)<br/>
-   Stack: <strong>WebSocket, TypeScript, JavaScript, Webpack, SessionStorage, Git, HTML, SASS, esLint, Prettier, Husky, Animation, SPA</strong><br/>
+   Stack: <strong>WebSocket, TypeScript, JavaScript, Webpack, SessionStorage, Git, HTML, SASS, Fetch, esLint, Prettier, Husky, Animation, SPA</strong><br/>
    
    <h4><a href="https://yourunb.github.io/FinalSpace/">Final Space React App</a></h4>
    Description: React SPA about Final Space movie<br/>
