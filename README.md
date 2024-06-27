@@ -35,7 +35,7 @@
 <h2>↘️ My Projects:</h2>
 <div>
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/rss-puzzle/">Puzzle Game</a></h4>
-   Description: SPA for learn English fun<br/>
+   Description: A fun app for learning English<br/>
    Stack: <strong>TypeScript, JavaScript, Webpack, Drag&Drop, Fetch, HTML, CSS, JSON, Git, REST, LocalStorage, esLint, Prettier, Husky, Animation, SPA</strong><br/>
 
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/fun-chat/">Chat</a> + for work backend <a href="https://github.com/YourunB/fun-chat-server">API</a></h4>
