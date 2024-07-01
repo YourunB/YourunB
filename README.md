@@ -122,6 +122,10 @@
    Description: This is my test application with fully implemented routing for SPA on Github without using any third party libraries.<br/>
    Stack: <strong>TypeScript, JavaScript, Webpack, SPA, Git, esLint, Prettier, Husky, HTML, SASS</strong><br/>
 
+   <h4><a href="https://yourunb.github.io/adaptive-menu">Adaptive menu</a></h4>
+   Description: Test task for create adaptive menu for all devices<br/>
+   Stack: <strong>JavaScript, HTML, CSS, prettier, esLint</strong><br/>
+
    <h4><a href="https://yourunb.github.io/PingPong/">Ping Pong</a></h4>
    Description: Ping pong game made on canvas<br/>
    Stack: <strong>JavaScript, Canvas, Animation, HTML, CSS</strong><br/>
