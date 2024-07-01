@@ -124,7 +124,7 @@
 
    <h4><a href="https://yourunb.github.io/adaptive-menu">Adaptive menu</a></h4>
    Description: Test task for create adaptive menu for all devices<br/>
-   Stack: <strong>JavaScript, HTML, CSS, prettier, esLint</strong><br/>
+   Stack: <strong>JavaScript, HTML, CSS, Git, prettier, esLint</strong><br/>
 
    <h4><a href="https://yourunb.github.io/PingPong/">Ping Pong</a></h4>
    Description: Ping pong game made on canvas<br/>
