@@ -171,7 +171,7 @@
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/microsoft.jpg?raw=true" alt="Microsoft" style="width: 30px;"> Microsoft (duration: 2 week) - <a href="https://learn.microsoft.com/en-gb/users/yury-1685/achievements/yvhj45er">Build JavaScript applications using TypeScript</h4>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 30px;"> RS School (duration: 5 month) - <a href="https://app.rs.school/certificate/v2s8zsd2">JavaScript / Frontend. Pre-School</a> (score: 1125.7 / 1135 - position: 83 / 8355)</h4>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 30px;"> RS School (duration: 9 month) - <a href="https://app.rs.school/certificate/i38wx6lp">JavaScript / Frontend. Stage 1 & Stage 2</a> (score: 4747.9 / 4828 - position: 13 / 5886)</h4>
-<h4><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 30px;"> RS School (duration: 9 month) - <a href="https://rs.school/">React. Stage 3</a> (in progress)</h4>
+<h4><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 30px;"> RS School (duration: 3 month) - <a href="https://rs.school/">React. Stage 3</a> (in progress)</h4>
 
 <h2>↘️ IT courses:</h2>
 <div>
