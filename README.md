@@ -44,7 +44,7 @@
    
    <h4><a href="https://yourunb.github.io/FinalSpace/">Final Space React App</a></h4>
    Description: React SPA about Final Space movie<br/>
-   Stack: <strong>React, Redux, Firebase, Fetch, REST, JavaScript, LocalStorage, Git, HTML, CSS, API, JSON, Animation, SPA</strong><br/>
+   Stack: <strong>React, Redux, Vite, Firebase, Fetch, REST, JavaScript, LocalStorage, Git, HTML, CSS, API, JSON, Animation, SPA</strong><br/>
    
    <h4><a href="https://yourunb.github.io/Nonograms-Game/">Nonograms Game</a></h4>
    Description: Japanese Crosswords - logic puzzles<br/>
@@ -60,7 +60,7 @@
 
    <h4><a href="https://yourunb.github.io/Rick-and-Morty-on-React/">Rick and Morty React App</a></h4>
    Description: React SPA about Rick and Morty movie<br/>
-   Stack: <strong>React, Redux, Firebase, Fetch, JavaScript, REST, Git, HTML, SASS(SCSS), Animation, SPA</strong><br/>
+   Stack: <strong>React, Redux, Vite, Firebase, Fetch, JavaScript, REST, Git, HTML, SASS(SCSS), Animation, SPA</strong><br/>
 
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/async-race/">Async Race</a> + for work backend <a href="https://github.com/YourunB/async-race-api">API</a></h4>
    Description: car racing, asynchronous programming (<a href="https://github.com/YourunB/async-race-api"><b>API</b></a> for work app)<br/>
@@ -92,7 +92,7 @@
 
    <h4><a href="https://yourunb.github.io/kapibara-lab/">Kapibara Lab</a></h4>
    Description: React App about kapibara laboratory<br/>
-   Stack: <strong>React, Webpack, Figma, Git, JavaScript, HTML, SASS, esLint, Prettier, Husky</strong><br/>
+   Stack: <strong>React, Vite, Figma, Git, JavaScript, HTML, SASS, esLint, Prettier, Husky</strong><br/>
 
    <h4><a href="https://yourunb.github.io/company-projects/">Company projects</a></h4>
    Description: Landing for company projects<br/>
