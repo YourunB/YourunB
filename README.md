@@ -150,7 +150,7 @@
    Description: Slider in pure HTML and CSS<br/>
    Stack: <strong>HTML, CSS, Animation</strong><br/>
 
-   <h4>Mini task: <a href="https://yourunb.github.io/Works_on_React/user-list">User List</a>, <a href="https://yourunb.github.io/Works_on_React/Filter/">Filter</a>, <a href="https://yourunb.github.io/Works_on_React/rainbow/">Rainbow</a></h4>
+   <h4>Mini task: <a href="https://yourunb.github.io/Works_on_React/user-list">List</a>, <a href="https://yourunb.github.io/Works_on_React/Filter/">Filter</a>, <a href="https://yourunb.github.io/Works_on_React/rainbow/">Rainbow</a></h4>
    Description: Some of mini task projets<br/>
    Stack: <strong>React, Redux, Webpack, JS, CSS, Git</strong>
 
