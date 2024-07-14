@@ -34,6 +34,10 @@
 
 <h2>↘️ My Projects:</h2>
 <div>
+   <h4><a href="https://github.com/YourunB/React-Tasks/tree/hooks-and-routing">Disney Characters</a></h4>
+   Description: React SPA with Disney API<br/>
+   Stack: <strong>React, React Router, TypeScript, JavaScript, Vite, Vitest, Jest, Fetch, HTML, CSS, Git, REST, LocalStorage, esLint, Prettier, Husky, SPA</strong><br/>
+   
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/rss-puzzle/">Puzzle Game</a></h4>
    Description: A fun app for learning English<br/>
    Stack: <strong>TypeScript, JavaScript, Webpack, Drag&Drop, Fetch, HTML, CSS, JSON, Git, REST, LocalStorage, esLint, Prettier, Husky, Animation, SPA</strong><br/>
