@@ -34,7 +34,7 @@
 
 <h2>↘️ My Projects:</h2>
 <div>
-   <h4><a href="https://github.com/YourunB/React-Tasks/tree/hooks-and-routing">Disney Characters</a></h4>
+   <h4><a href="https://yourunb.github.io/disney-charcters-react-spa/">Disney Characters</a></h4>
    Description: React SPA with Disney API<br/>
    Stack: <strong>React, React Router, TypeScript, JavaScript, Vite, Vitest, Jest, Fetch, HTML, CSS, Git, REST, LocalStorage, esLint, Prettier, Husky, SPA</strong><br/>
    
