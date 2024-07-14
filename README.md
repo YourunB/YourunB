@@ -36,7 +36,7 @@
 <div>
    <h4><a href="https://yourunb.github.io/disney-charcters-react-spa/">Disney Characters</a></h4>
    Description: React SPA with Disney API<br/>
-   Stack: <strong>React, React Router, TypeScript, JavaScript, Vite, Vitest, Jest, Fetch, HTML, CSS, Git, REST, LocalStorage, esLint, Prettier, Husky, SPA</strong><br/>
+   Stack: <strong>React, React Router, TypeScript, JavaScript, Vite, Vitest, Jest, Pagination, Fetch, HTML, CSS, Git, REST, LocalStorage, esLint, Prettier, Husky, SPA</strong><br/>
    
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/rss-puzzle/">Puzzle Game</a></h4>
    Description: A fun app for learning English<br/>
