@@ -36,7 +36,7 @@
 <div>
    <h4><a href="https://yourunb.github.io/disney-charcters-redux-RTK/">Disney Characters</a> with RTK Query</h4>
    Description: React SPA with Disney API + Redux<br/>
-   Stack: <strong>React, Redux, RTK Query, React Router + Outlet, TypeScript, JavaScript, Vite, Vitest, Jest, Pagination, Fetch, HTML, CSS, Git, REST, LocalStorage, esLint, Prettier, Husky, SPA</strong><br/>
+   Stack: <strong>React, Redux, RTK Query, React Router + Outlet, TypeScript, JavaScript, Vite, Vitest, Jest, Pagination, Fetch, HTML, CSS, Git, REST, esLint, Prettier, Husky, SPA</strong><br/>
    
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/rss-puzzle/">Puzzle Game</a></h4>
    Description: A fun app for learning English<br/>
