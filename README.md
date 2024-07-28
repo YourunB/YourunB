@@ -34,7 +34,7 @@
 
 <h2>↘️ My Projects:</h2>
 <div>
-   <h4><a href="https://yourunb.github.io/disney-charcters-redux-RTK/">Disney Characters with RTK Query</a></h4>
+   <h4><a href="https://yourunb.github.io/disney-charcters-redux-RTK/">Disney Characters</a> with RTK Query</h4>
    Description: React SPA with Disney API + Redux<br/>
    Stack: <strong>React, Redux, RTK Query, React Router + Outlet, TypeScript, JavaScript, Vite, Vitest, Jest, Pagination, Fetch, HTML, CSS, Git, REST, LocalStorage, esLint, Prettier, Husky, SPA</strong><br/>
    
