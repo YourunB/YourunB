@@ -154,6 +154,10 @@
    Description: My CV<br/>
    Stack: <strong>JavaScript, Drag&Drop, Git, esLint, Prettier, Husky, HTML, CSS</strong><br/>
 
+   <h4><a href="https://yourunb.github.io/React-Tasks/class-components/">Application</a> on class components</h4>
+   Description: React App with Disney API<br/>
+   Stack: <strong>React, TypeScript, JavaScript, Vite, Fetch, HTML, CSS, Git, REST, esLint, Prettier, Husky, SPA</strong><br/>
+
    <h4><a href="https://yourunb.github.io/cssMemeSlider/">Meme Slider</a></h4>
    Description: Slider in pure HTML and CSS<br/>
    Stack: <strong>HTML, CSS, Animation</strong><br/>
