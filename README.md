@@ -35,7 +35,7 @@
 <h2>↘️ My Projects:</h2>
 <div>
    <h4><a href="https://yourunb.github.io/disney-charcters-redux-RTK/">Disney Characters</a> with RTK Query</h4>
-   Description: React SPA with Disney API + Redux<br/>
+   Description: React SPA with <a href="https://disneyapi.dev/">Disney API</a> + Redux<br/>
    Stack: <strong>React, Redux, RTK Query, React Router + Outlet, TypeScript, JavaScript, Vite, Vitest, Jest, Pagination, Fetch, HTML, CSS, Git, REST, esLint, Prettier, Husky, SPA</strong><br/>
    
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/rss-puzzle/">Puzzle Game</a></h4>
@@ -71,7 +71,7 @@
    Stack: <strong>TypeScript, Webpack, JavaScript, REST, HTML, CSS, LocalStorage, esLint, Prettier, Husky, Animation, SPA</strong><br/>
 
    <h4><a href="https://yourunb.github.io/disney-charcters-react-spa/">Disney Characters</a></h4>
-   Description: React SPA with Disney API<br/>
+   Description: React SPA with <a href="https://disneyapi.dev/">Disney API</a><br/>
    Stack: <strong>React, React Router, TypeScript, JavaScript, Vite, Vitest, Jest, Pagination, Fetch, HTML, CSS, Git, REST, LocalStorage, esLint, Prettier, Husky, SPA</strong><br/>
 
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/ecommerce/">Plants Shop</a> - team work (<a href="https://github.com/yourunb">Yury</a> - frontend / team lead, <a href="https://github.com/k98940">Kostya</a> - frontend, <a href="https://github.com/timoshenkovanadya">Nadya</a> - frontend)</h4>
