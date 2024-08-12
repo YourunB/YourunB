@@ -64,7 +64,7 @@
    - Rick and Morty on <a href="https://github.com/YourunB/React-Tasks/tree/nextjs-ssr-pages-api">Next.js SSR Pages API</a><br/>
    - Rick and Morty on <a href="https://github.com/YourunB/React-Tasks/tree/nextjs-ssr-app-router-api">Next.js App Router API</a><br/>
    Description: SPA about movie Rick and Morty create on Next with <a href="https://rickandmortyapi.com/">API</a><br/>
-   Stack: <strong>JavaScript, Figma, Fetch, JSON, LocalStorage, Git, HTML, Animation, CSS</strong><br/>
+   Stack: <strong>Next, Redux, RTK Query, Vite, TypeScript, JavaScript, HTML, CSS, Jest, Vitest, Husky, Prettier, esLint</strong><br/>
 
    <h4><a href="https://yourunb.github.io/CoffeeHouse/">Coffee House</a></h4>
    Description: Web site about coffee and tea<br/>
