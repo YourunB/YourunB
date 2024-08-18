@@ -140,7 +140,7 @@
 
    <h4><a href="https://yourunb.github.io/Forms-With-Yup/">Forms Validate</a></h4>
    Description: React SPA with validate forms by Yup (React Hook Form & Uncontrolled Form)<br/>
-   Stack: <strong>React, Vite, TypeScript, JavaScript, HTML, CSS, Routing, Prettier, Husky, esLint, Yup</strong><br/>
+   Stack: <strong>React, Redux, RTK, TypeScript, Vite, JavaScript, HTML, CSS, Routing, Prettier, Husky, esLint, Yup</strong><br/>
 
    <h4><a href="https://yourunb.github.io/adaptive-menu">Adaptive menu</a></h4>
    Description: Test task for create adaptive menu for all devices<br/>
