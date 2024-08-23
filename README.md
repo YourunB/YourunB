@@ -58,14 +58,6 @@
    Description: SPA designed in accordance with MVC is an application for searching for free games<br/>
    Stack: <strong>JavaScript, Firebase, MVC, Fetch, LocalStorage, REST, Git, HTML, CSS, API, JSON, Animation, SPA</strong><br/>
 
-   <h4>Rick and Morty Next App</h4>
-   Version:<br/>
-   - Rick and Morty on <a href="https://github.com/YourunB/React-Tasks/tree/nextjs-ssr-app-router-api">Next.js App Router API</a><br/>
-   - Rick and Morty on <a href="https:remix-ssr">Next.js Remix SSR</a><br/>
-   - Rick and Morty on <a href="https://github.com/YourunB/React-Tasks/tree/nextjs-ssr-pages-api">Next.js SSR Pages API</a><br/>
-   Description: SPA about movie Rick and Morty create on Next with <a href="https://rickandmortyapi.com/">API</a><br/>
-   Stack: <strong>Next, Redux, RTK Query, Vite, TypeScript, JavaScript, HTML, CSS, Jest, Vitest, Husky, Prettier, esLint</strong><br/>
-
    <h4><a href="https://yourunb.github.io/CoffeeHouse/">Coffee House</a></h4>
    Description: Web site about coffee and tea<br/>
    Stack: <strong>JavaScript, Figma, Fetch, JSON, LocalStorage, Git, HTML, Animation, CSS</strong><br/>
@@ -101,6 +93,14 @@
    <h4><a href="https://yourunb.github.io/Hangman-Game/">Hangman Game</a></h4>
    Description: A bright and exciting quiz game - hangman.<br/>
    Stack: <strong>JavaScript, HTML, CSS, Git, esLint, Prettier, Husky, Animation, SPA</strong><br/>
+
+   <h4>Rick and Morty Next App</h4>
+   Version:<br/>
+   - Rick and Morty on <a href="https://github.com/YourunB/React-Tasks/tree/nextjs-ssr-app-router-api">Next.js App Router API</a><br/>
+   - Rick and Morty on <a href="https:remix-ssr">Next.js Remix SSR</a><br/>
+   - Rick and Morty on <a href="https://github.com/YourunB/React-Tasks/tree/nextjs-ssr-pages-api">Next.js SSR Pages API</a><br/>
+   Description: SPA about movie Rick and Morty create on Next with <a href="https://rickandmortyapi.com/">API</a><br/>
+   Stack: <strong>Next, Redux, RTK Query, Vite, TypeScript, JavaScript, HTML, CSS, Jest, Vitest, Husky, Prettier, esLint</strong><br/>
    
    <h4><a href="https://yourunb.github.io/Rick_and_Morty/">Rick And Morty</a></h4>
    Description: Applications for viewing information about all the characters of the cartoon Rick and Morty<br/>
