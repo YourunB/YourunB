@@ -34,7 +34,7 @@
 
 <h2>↘️ My Projects:</h2>
 <div>
-   <h4><a href="https://graphiql-app-theta.vercel.app/en">Graph/Rest Client</a> - created with my team(<a href="https://github.com/yourunb">Yury</a> - frontend / team lead, <a href="https://github.com/Lilo002">Liza</a> - frontend, <a href="https://github.com/valeryaosta">Valerya</a> - frontend)</h4>
+   <h4><a href="https://graphiql-app-theta.vercel.app/en">Graph/Rest Client</a> - created with my team (<a href="https://github.com/yourunb">Yury</a> - frontend / team lead, <a href="https://github.com/Lilo002">Liza</a> - frontend, <a href="https://github.com/valeryaosta">Valerya</a> - frontend)</h4>
    Description: Graph/Rest Client App created on Next JS<br/>
    Stack: <strong>Next, GraphQL, REST, TypeScript, JavaScript, Vite, Vitest, App Router, Fetch, HTML, CSS, Git, esLint, Prettier, Husky</strong><br/>
    
