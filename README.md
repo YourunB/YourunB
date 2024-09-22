@@ -34,7 +34,7 @@
 
 <h2>↘️ My Projects:</h2>
 <div>
-   <h4><a href="https://graphiql-app-theta.vercel.app/en">Graph/Rest Client</a> - created with my team (<a href="https://github.com/yourunb">Yury</a> - frontend / team lead, <a href="https://github.com/Lilo002">Liza</a> - frontend, <a href="https://github.com/valeryaosta">Valerya</a> - frontend)</h4>
+   <h4><a href="https://graphiql-app-theta.vercel.app/en">Graph/Rest Client</a> - created with my team (<a href="https://github.com/yourunb">Yury</a> - team lead / frontend, <a href="https://github.com/Lilo002">Liza</a> - frontend, <a href="https://github.com/valeryaosta">Valerya</a> - frontend)</h4>
    Description: Graph/Rest Client App created on Next JS<br/>
    Stack: <strong>Next, GraphQL, REST, TypeScript, JavaScript, Vite, Vitest, App Router, Fetch, HTML, CSS, Git, esLint, Prettier, Husky</strong><br/>
    
@@ -78,7 +78,7 @@
    Description: React SPA with <a href="https://disneyapi.dev/">Disney API</a><br/>
    Stack: <strong>React, React Router, TypeScript, JavaScript, Vite, Vitest, Jest, Pagination, Fetch, HTML, CSS, Git, REST, LocalStorage, esLint, Prettier, Husky, SPA</strong><br/>
 
-   <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/ecommerce/">Plants Shop</a> - created with my team (<a href="https://github.com/yourunb">Yury</a> - frontend / team lead, <a href="https://github.com/k98940">Kostya</a> - frontend, <a href="https://github.com/timoshenkovanadya">Nadya</a> - frontend)</h4>
+   <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/ecommerce/">Plants Shop</a> - created with my team (<a href="https://github.com/yourunb">Yury</a> - team lead / frontend, <a href="https://github.com/k98940">Kostya</a> - frontend, <a href="https://github.com/timoshenkovanadya">Nadya</a> - frontend)</h4>
    Description: this is final project for team work from education Stage 2 in <a href="https://rs.school/">RS School</a> (course duration 9 month)<br/>
    Stack: <strong>TypeScript, JavaScript, Webpack, REST, API Commerce Tools, Swiper, Trello, HTML, SASS, LocalStorage, SessionStorage, Git, Fetch, esLint, Prettier, Husky, Jest, Routing, Animation, SPA, Agile(Scrum)</strong><br/>
 
