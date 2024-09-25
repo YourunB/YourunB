@@ -157,6 +157,10 @@
    <h4><a href="https://yourunb.github.io/creative-images/image1">Creative images</a></h4>
    Description: Images about realt company<br/>
    Stack: <strong>JavaScript, HTML, CSS, Git</strong><br/>
+
+   <h4><a href="https://yourunb.github.io/houses-floor-clip-poligon/">Test Clip Mask Poligon</a></h4>
+   Description: Test about clip mask in CSS<br/>
+   Stack: <strong>HTML, CSS, Git</strong><br/>
    
    <h4><a href="https://yourunb.github.io/First_project-stretch_ceilings/">Stretch Ceilings</a></h4>
    Description: Web site about stretch ceilings<br/>
