@@ -204,8 +204,8 @@
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 30px;"> RS School (duration: 9 month) - <a href="https://app.rs.school/certificate/i38wx6lp">JavaScript / Frontend. Stage 1 & Stage 2</a> (score: 4747.9 / 4828 - position: 13 / 5886)</h4>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 30px;"> RS School (duration: 5 month) - <a href="https://app.rs.school/certificate/v2s8zsd2">JavaScript / Frontend. Pre-School</a> (score: 1125.7 / 1135 - position: 83 / 8355)</h4>
 <div align="center">
-   <a target="_blank" href="https://app.rs.school/certificate/xqvecs0c"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/stage-3.jpg?raw=true" alt="Certificate" style="width: 200px;"></a>
-   <a target="_blank" href="https://app.rs.school/certificate/i38wx6lp"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/stage-1-2.jpg?raw=true" alt="Certificate" style="width: 200px;"></a>
+   <a target="_blank" href="https://app.rs.school/certificate/xqvecs0c"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/stage-3.jpg?raw=true" alt="Certificate" style="width: 200px;"></a>    
+   <a target="_blank" href="https://app.rs.school/certificate/i38wx6lp"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/stage-1-2.jpg?raw=true" alt="Certificate" style="width: 200px;"></a>    
    <a target="_blank" href="https://app.rs.school/certificate/v2s8zsd2"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/stage-0.jpg?raw=true" alt="Certificate" style="width: 200px;"></a>
 </div>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/ItAcademy.jpg?raw=true" alt="IT Academy" style="width: 30px;"> IT Academy (duration: 3 month) - <a href="https://yourunb.github.io/CV/assets/img/fd3.jpg">Web application development using React</a> (score: 10 / 10)</h4>
