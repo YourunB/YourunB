@@ -217,7 +217,13 @@
    <a target="_blank" href="https://github.com/YourunB/CV/blob/CV/assets/img/fd1.jpg?raw=true"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/fd1.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
 </div>
 <h4><img src="https://raw.githubusercontent.com/YourunB/Test1/main/images/aws.png" alt="AWS" style="width: 30px;"> Amazon Web Services (duration: 1 week) - <a href="https://yourunb.github.io/CV/assets/img/AWS-1.jpg">Getting Started with Cloud Acquisition</a></h4>
+<div align="center">
+   <a target="_blank" href="https://yourunb.github.io/CV/assets/img/AWS-1.jpg"><img src="https://yourunb.github.io/CV/assets/img/AWS-1.jpg" alt="Certificate" style="width: 200px"></a>
+</div>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/microsoft.jpg?raw=true" alt="Microsoft" style="width: 30px"> Microsoft (duration: 2 week) - <a href="https://learn.microsoft.com/en-gb/users/yury-1685/achievements/yvhj45er">Build JavaScript applications using TypeScript</h4>
+<div align="center">
+   <a target="_blank" href="https://learn.microsoft.com/en-gb/users/yury-1685/achievements/yvhj45er"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/ts.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
+</div>
 
 <h2>↘️ IT courses:</h2>
 <div>
