@@ -216,6 +216,14 @@
    <a target="_blank" href="https://github.com/YourunB/CV/blob/CV/assets/img/fd2.jpg?raw=true"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/fd2.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
    <a target="_blank" href="https://github.com/YourunB/CV/blob/CV/assets/img/fd1.jpg?raw=true"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/fd1.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
 </div>
+<h4><img src="https://github.com/YourunB/Test1/blob/main/images/freecodecamp.jpg?raw=true" alt="FreeCodeCamp" style="width: 30px"> FreeCodeCamp (duration: 3 week) - <a href="https://www.freecodecamp.org/certification/yury-butskevich/responsive-web-design">Responsive Web Design</a></h4>
+<h4><img src="https://github.com/YourunB/Test1/blob/main/images/freecodecamp.jpg?raw=true" alt="FreeCodeCamp" style="width: 30px"> FreeCodeCamp (duration: 3 week) - <a href="https://www.freecodecamp.org/certification/yury-butskevich/data-visualization">Data Visualization</a></h4>
+<h4><img src="https://github.com/YourunB/Test1/blob/main/images/freecodecamp.jpg?raw=true" alt="FreeCodeCamp" style="width: 30px"> FreeCodeCamp (duration: 3 week) - <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/">JavaScript Algorithms and Data Structures</a></h4>
+<div align="center">
+   <a target="_blank" href="https://www.freecodecamp.org/certification/yury-butskevich/responsive-web-design"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/rwd.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
+   <a target="_blank" href="https://www.freecodecamp.org/certification/yury-butskevich/data-visualization"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/dv.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
+   <a target="_blank" href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/js.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
+</div>
 <h4><img src="https://raw.githubusercontent.com/YourunB/Test1/main/images/aws.png" alt="AWS" style="width: 30px;"> Amazon Web Services (duration: 1 week) - <a href="https://yourunb.github.io/CV/assets/img/AWS-1.jpg">Getting Started with Cloud Acquisition</a></h4>
 <div align="center">
    <a target="_blank" href="https://yourunb.github.io/CV/assets/img/AWS-1.jpg"><img src="https://yourunb.github.io/CV/assets/img/AWS-1.jpg" alt="Certificate" style="width: 200px"></a>
