@@ -146,6 +146,10 @@
    Description: React SPA with validate forms by Yup (React Hook Form & Uncontrolled Form)<br/>
    Stack: <strong>React, Redux, RTK, TypeScript, Vite, JavaScript, HTML, CSS, Routing, Prettier, Husky, esLint, Yup</strong><br/>
 
+   <h4><a href="https://yourunb.github.io/residential-complex/">Residential Complex</a></h4>
+   Description: Project was made according to figma<br/>
+   Stack: <strong>HTML, CSS, JS, Prettier, Lite Server, Figma</strong><br/>
+
    <h4><a href="https://yourunb.github.io/adaptive-menu">Adaptive menu</a></h4>
    Description: Test task for create adaptive menu for all devices<br/>
    Stack: <strong>JavaScript, HTML, CSS, Git, prettier, esLint</strong><br/>
