@@ -62,10 +62,6 @@
    Description: SPA designed in accordance with MVC is an application for searching for free games<br/>
    Stack: <strong>JavaScript, Firebase, MVC, Fetch, LocalStorage, REST, Git, HTML, CSS, API, JSON, Animation, SPA</strong><br/>
 
-   <h4><a href="https://yourunb.github.io/ATRE/">ATRE - Figma layout</a></h4>
-   Description: Web site about ATRE<br/>
-   Stack: <strong>jQuery, JavaScript, Figma, CSS, HTML</strong><br/>
-
    <h4><a href="https://yourunb.github.io/CoffeeHouse/">Coffee House - Figma layout</a></h4>
    Description: Web site about coffee and tea<br/>
    Stack: <strong>JavaScript, Figma, Fetch, JSON, LocalStorage, Git, HTML, Animation, CSS</strong><br/>
@@ -81,6 +77,10 @@
    <h4><a href="https://yourunb.github.io/disney-charcters-react-spa/">Disney Characters</a></h4>
    Description: React SPA with <a href="https://disneyapi.dev/">Disney API</a><br/>
    Stack: <strong>React, React Router, TypeScript, JavaScript, Vite, Vitest, Jest, Pagination, Fetch, HTML, CSS, Git, REST, LocalStorage, esLint, Prettier, Husky, SPA</strong><br/>
+
+   <h4><a href="https://yourunb.github.io/ATRE/">ATRE - Figma layout</a></h4>
+   Description: Web site about ATRE<br/>
+   Stack: <strong>jQuery, JavaScript, Figma, CSS, HTML</strong><br/>
 
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/ecommerce/">Plants Shop</a> - created with my team (<a href="https://github.com/yourunb">Yury</a> - team lead / frontend, <a href="https://github.com/k98940">Kostya</a> - frontend, <a href="https://github.com/timoshenkovanadya">Nadya</a> - frontend)</h4>
    Description: this is final project for team work from education Stage 2 in <a href="https://rs.school/">RS School</a> (course duration 9 month)<br/>
