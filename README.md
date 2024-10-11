@@ -1,7 +1,7 @@
 <h1 align="center">&#60;Hello World /&#62; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.gif" alt="👽" width="32" height="32"><br/>I am <a href="https://yourunb.github.io/WelcomePortfolio/">Frontend Developer</a></h1>
-<p align="center"><a target="_blank" href="https://yourunb.github.io/WelcomePortfolio/"><img src="https://github.com/YourunB/Test1/blob/main/images/frontend1.png?raw=true" alt="Frontend development" width="300"/></a></p>
 
 <h2>↘️ About me:</h2>
+<p align="center"><a target="_blank" href="https://yourunb.github.io/WelcomePortfolio/"><img src="https://github.com/YourunB/Test1/blob/main/images/frontend1.png?raw=true" alt="Frontend development" width="300"/></a></p>
 <div align="center">
    <a target="_blank" href="https://yourunb.github.io/CV/"><img src="https://github.com/YourunB/Test1/blob/main/images/cv.png?raw=true" alt="CV" style="width: 100px;"></a>
    <a target="_blank" href="https://yourunb.github.io/WelcomePortfolio/"><img src="https://github.com/YourunB/Test1/blob/main/images/portfolio.png?raw=true" alt="Portfolio" style="width: 100px;"></a>
