@@ -62,7 +62,7 @@
    Description: SPA designed in accordance with MVC is an application for searching for free games<br/>
    Stack: <strong>JavaScript, Firebase, MVC, Fetch, LocalStorage, REST, Git, HTML, CSS, API, JSON, Animation, SPA</strong><br/>
 
-   <h4><a href="https://yourunb.github.io/CoffeeHouse/">Coffee House - Figma layout</a></h4>
+   <h4><a href="https://yourunb.github.io/CoffeeHouse/">Coffee House (Сreated From Figma)</a></h4>
    Description: Web site about coffee and tea<br/>
    Stack: <strong>JavaScript, Figma, Fetch, JSON, LocalStorage, Git, HTML, Animation, CSS</strong><br/>
 
@@ -78,7 +78,7 @@
    Description: React SPA with <a href="https://disneyapi.dev/">Disney API</a><br/>
    Stack: <strong>React, React Router, TypeScript, JavaScript, Vite, Vitest, Jest, Pagination, Fetch, HTML, CSS, Git, REST, LocalStorage, esLint, Prettier, Husky, SPA</strong><br/>
 
-   <h4><a href="https://yourunb.github.io/ATRE/">ATRE - Figma layout</a></h4>
+   <h4><a href="https://yourunb.github.io/ATRE/">ATRE (Сreated From Figma)</a></h4>
    Description: Web site about ATRE<br/>
    Stack: <strong>jQuery, JavaScript, Figma, CSS, HTML</strong><br/>
 
@@ -114,7 +114,7 @@
    Description: Applications for viewing information about all the characters of the cartoon Rick and Morty<br/>
    Stack: <strong>JavaScript, AJAX, HTML, CSS, Git, API, Animation, SPA</strong><br/>
 
-   <h4><a href="https://yourunb.github.io/kapibara-lab/">Kapibara Lab - Figma layout</a></h4>
+   <h4><a href="https://yourunb.github.io/kapibara-lab/">Kapibara Lab (Сreated From Figma)</a></h4>
    Description: React App about kapibara laboratory<br/>
    Stack: <strong>React, Vite, Figma, Git, JavaScript, HTML, SASS, esLint, Prettier, Husky</strong><br/>
 
@@ -134,11 +134,11 @@
    Description: Embedded weather plugin for any website<br/>
    Stack: <strong>JavaScript, Fetch, Git, MVC, Animation, HTML, CSS</strong><br/>
 
-   <h4><a href="https://yourunb.github.io/NYC-Library/">NYC Library - Figma layout</a></h4>
+   <h4><a href="https://yourunb.github.io/NYC-Library/">NYC Library (Сreated From Figma)</a></h4>
    Description: Educational project from the figma about the NYC Library<br/>
    Stack: <strong>JavaScript, Figma, Git, HTML, CSS</strong><br/>
 
-   <h4><a href="https://yourunb.github.io/earn-money/">Earn money - Figma layout</a></h4>
+   <h4><a href="https://yourunb.github.io/earn-money/">Earn money - (Сreated From Figma)</a></h4>
    Description: Landing for earn money<br/>
    Stack: <strong>TypeScript, Figma, Webpack, JavaScript, Git, esLint, Prettier, Husky, HTML, SASS</strong><br/>
 
