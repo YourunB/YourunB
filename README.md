@@ -229,8 +229,8 @@
    <a target="_blank" href="https://github.com/YourunB/CV/blob/CV/assets/img/fd1.jpg?raw=true"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/fd1.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
 </div>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/freecodecamp.jpg?raw=true" alt="FreeCodeCamp" style="width: 30px"> FreeCodeCamp (duration: 2 week) - <a href="https://www.freecodecamp.org/certification/yury-butskevich/responsive-web-design">Responsive Web Design</a></h4>
-<h4><img src="https://github.com/YourunB/Test1/blob/main/images/freecodecamp.jpg?raw=true" alt="FreeCodeCamp" style="width: 30px"> FreeCodeCamp (duration: 2 week) - <a href="https://www.freecodecamp.org/certification/yury-butskevich/data-visualization">Data Visualization</a></h4>
-<h4><img src="https://github.com/YourunB/Test1/blob/main/images/freecodecamp.jpg?raw=true" alt="FreeCodeCamp" style="width: 30px"> FreeCodeCamp (duration: 2 week) - <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/">JavaScript Algorithms and Data Structures</a></h4>
+<h4><img src="https://github.com/YourunB/Test1/blob/main/images/freecodecamp.jpg?raw=true" alt="FreeCodeCamp" style="width: 30px"> FreeCodeCamp (duration: 3 week) - <a href="https://www.freecodecamp.org/certification/yury-butskevich/data-visualization">Data Visualization</a></h4>
+<h4><img src="https://github.com/YourunB/Test1/blob/main/images/freecodecamp.jpg?raw=true" alt="FreeCodeCamp" style="width: 30px"> FreeCodeCamp (duration: 3 week) - <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/">JavaScript Algorithms and Data Structures</a></h4>
 <div align="center">
    <a target="_blank" href="https://www.freecodecamp.org/certification/yury-butskevich/responsive-web-design"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/rwd.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
    <a target="_blank" href="https://www.freecodecamp.org/certification/yury-butskevich/data-visualization"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/dv.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
