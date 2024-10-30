@@ -154,6 +154,10 @@
    Description: Project was made according to figma<br/>
    Stack: <strong>HTML, CSS, JS, Prettier, Lite Server, Figma</strong><br/>
 
+   <h4><a href="https://yourunb.github.io/binance-chart/">Binance Diagram BTC/USDT</a></h4>
+   Description: Project with Binance API for create diagram<br/>
+   Stack: <strong>React, TypeScript, Vite, esLint, Prettier, HTML, CSS, Victory Chart</strong><br/>
+
    <h4><a href="https://yourunb.github.io/adaptive-menu">Adaptive menu</a></h4>
    Description: Test task for create adaptive menu for all devices<br/>
    Stack: <strong>JavaScript, HTML, CSS, Git, prettier, esLint</strong><br/>
