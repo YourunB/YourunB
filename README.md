@@ -70,6 +70,10 @@
    Description: React SPA about Rick and Morty movie<br/>
    Stack: <strong>React, Redux, Vite, Firebase, Fetch, JavaScript, REST, Git, HTML, SASS(SCSS), Animation, SPA</strong><br/>
 
+   <h4><a href="https://yourunb.github.io/kids-store/">Kids Store (Сreated From Figma)</a></h4>
+   Description: Web site about kids cloth<br/>
+   Stack: <strong>JavaScript, jQuery Figma, Swiper, FancyBox, Git, HTML, CSS, Bootstrap</strong><br/>
+
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/async-race/">Async Race</a> + for work backend <a href="https://github.com/YourunB/async-race-api">API</a></h4>
    Description: car racing, asynchronous programming (<a href="https://github.com/YourunB/async-race-api"><b>API</b></a> for work app)<br/>
    Stack: <strong>TypeScript, Webpack, JavaScript, REST, HTML, CSS, LocalStorage, esLint, Prettier, Husky, Animation, SPA</strong><br/>
