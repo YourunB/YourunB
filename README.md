@@ -244,6 +244,14 @@
    <a target="_blank" href="https://www.freecodecamp.org/certification/yury-butskevich/data-visualization"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/dv.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
    <a target="_blank" href="https://www.freecodecamp.org/certification/yury-butskevich/javascript-algorithms-and-data-structures-v8"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/js.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
 </div>
+<h4><img src="https://github.com/YourunB/Test1/blob/main/images/stepik.png?raw=true" alt="Stepik" style="width: 30px"> Microsoft (duration: 1 month) - <a href="https://stepik.org/certificate/7780f759b9e7a1731f26ef9c1436d4aa8f969b87.pdf">Python for Beginners</h4>
+<div align="center">
+   <a target="_blank" href="https://stepik.org/certificate/7780f759b9e7a1731f26ef9c1436d4aa8f969b87.pdf"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/stepik-python.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
+</div>
+<h4><img src="https://github.com/YourunB/Test1/blob/main/images/vk.jpg?raw=true" alt="Stepik" style="width: 30px"> VK Education (duration: 2 week) - <a href="https://education.vk.company/curriculum/certificates/download/57773/a633d7e1-79d0-41bb-98cf-a501bc74ef47/">Product management</h4>
+<div align="center">
+   <a target="_blank" href="https://education.vk.company/curriculum/certificates/download/57773/a633d7e1-79d0-41bb-98cf-a501bc74ef47/"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/vk-prod-mgr.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
+</div>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/microsoft.jpg?raw=true" alt="Microsoft" style="width: 30px"> Microsoft (duration: 2 week) - <a href="https://learn.microsoft.com/en-gb/users/yury-1685/achievements/yvhj45er">Build JavaScript applications using TypeScript</h4>
 <div align="center">
    <a target="_blank" href="https://learn.microsoft.com/en-gb/users/yury-1685/achievements/yvhj45er"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/ts.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
@@ -258,6 +266,7 @@
    <a href="https://www.it-academy.by"><img src="https://github.com/YourunB/Test1/blob/main/images/ItAcademy.jpg?raw=true" alt="IT Academy" style="width: 100px"></a>
    <a href="https://rs.school"><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 100px"></a>
    <a href="https://www.freecodecamp.org/"><img src="https://github.com/YourunB/Test1/blob/main/images/freecodecamp.jpg?raw=true" alt="Freecodecamp" style="width: 100px"></a>
+   <a href="https://stepik.org/"><img src="https://github.com/YourunB/Test1/blob/main/images/stepik.png?raw=true" alt="Stepik" style="width: 100px"></a>
    <a href="https://education.vk.company/"><img src="https://github.com/YourunB/Test1/blob/main/images/vk.jpg?raw=true" alt="VK Education" style="width: 100px;"></a>
    <a href="https://explore.skillbuilder.aws/learn"><img src="https://raw.githubusercontent.com/YourunB/Test1/main/images/aws.png" alt="AWS" style="width: 100px"></a>
    <a href="https://learn.microsoft.com/ru-ru/training/"><img src="https://github.com/YourunB/Test1/blob/main/images/microsoft.jpg?raw=true" alt="Microsoft" style="width: 100px"></a>
