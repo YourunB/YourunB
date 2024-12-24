@@ -34,6 +34,10 @@
 
 <h2>↘️ My Projects:</h2>
 <div>
+   <h4><a href="https://yourunb.github.io/Free-To-Play/">Free To Play</a></h4>
+   Description: SPA designed in accordance with MVC is an application for searching for free games<br/>
+   Stack: <strong>JavaScript, Firebase, MVC, Fetch, LocalStorage, REST, Git, HTML, CSS, API, JSON, Animation, SPA</strong><br/>
+   
    <h4><a href="https://graphiql-app-theta.vercel.app/en">Graph/Rest Client</a> - created with my team (<a href="https://github.com/yourunb">Yury</a> - team lead / frontend, <a href="https://github.com/Lilo002">Liza</a> - frontend, <a href="https://github.com/valeryaosta">Valerya</a> - frontend)</h4>
    Description: Graph/Rest Client App created on Next JS<br/>
    Stack: <strong>Next, GraphQL, REST, TypeScript, JavaScript, Vite, Vitest, App Router, Fetch, HTML, CSS, Git, esLint, Prettier, Husky</strong><br/>
@@ -57,10 +61,6 @@
    <h4><a href="https://yourunb.github.io/Nonograms-Game/">Nonograms Game</a></h4>
    Description: Japanese Crosswords - logic puzzles<br/>
    Stack: <strong>TypeScript, JavaScript, Webpack, Fetch, LocalStorage, Git, HTML, CSS, JSON, esLint, Prettier, Husky, Animation, SPA</strong><br/>
-   
-   <h4><a href="https://yourunb.github.io/Free-To-Play/">Free To Play</a></h4>
-   Description: SPA designed in accordance with MVC is an application for searching for free games<br/>
-   Stack: <strong>JavaScript, Firebase, MVC, Fetch, LocalStorage, REST, Git, HTML, CSS, API, JSON, Animation, SPA</strong><br/>
 
    <h4><a href="https://yourunb.github.io/CoffeeHouse/">Coffee House (Сreated From Figma)</a></h4>
    Description: Web site about coffee and tea<br/>
