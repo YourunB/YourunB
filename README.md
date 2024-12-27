@@ -12,6 +12,7 @@
 <div align="center">
    <img src="assets/images/react.png" title="React" alt="React" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/next.png" title="NextJS" alt="NextJS" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/postgresql.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/redux.png" title="Redux" alt="Redux" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/ts.png" title="TypeScript" alt="TypeScript" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/js.png" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;">
@@ -24,7 +25,6 @@
    <img src="assets/images/css3.png" title="CSS3" alt="CSS3" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/db.png" title="Data Base" alt="Data Base" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/figma.png" title="Figma" alt="Figma" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/postgresql.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/api.png" title="API" alt="API" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/phyton.png" title="Phyton" alt="Phyton" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/pixel-perfect.png" title="Perfect Pixel" alt="Perfect Pixel" width="40" height="40" style="max-width: 100%;">
