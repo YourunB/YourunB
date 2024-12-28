@@ -34,6 +34,10 @@
 
 <h2>↘️ My Projects:</h2>
 <div>
+   <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/rss-puzzle/">Puzzle Game</a></h4>
+   Description: A fun app for learning English<br/>
+   Stack: <strong>TypeScript, JavaScript, Webpack, Drag&Drop, Fetch, HTML, CSS, JSON, Git, REST, LocalStorage, esLint, Prettier, Husky, Animation, SPA</strong><br/>
+   
    <h4><a href="https://yourunb.github.io/Free-To-Play/">Free To Play</a></h4>
    Description: SPA designed in accordance with MVC is an application for searching for free games<br/>
    Stack: <strong>JavaScript, Firebase, MVC, Fetch, LocalStorage, REST, Git, HTML, CSS, API, JSON, Animation, SPA</strong><br/>
@@ -45,10 +49,6 @@
    <h4><a href="https://yourunb.github.io/disney-charcters-redux-RTK/">Disney Characters</a> with RTK Query</h4>
    Description: React SPA with <a href="https://disneyapi.dev/">Disney API</a> + Redux<br/>
    Stack: <strong>React, Redux, RTK Query, React Router + Outlet, TypeScript, JavaScript, Vite, Vitest, Jest, Pagination, Fetch, HTML, CSS, Git, REST, esLint, Prettier, Husky, SPA</strong><br/>
-   
-   <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/rss-puzzle/">Puzzle Game</a></h4>
-   Description: A fun app for learning English<br/>
-   Stack: <strong>TypeScript, JavaScript, Webpack, Drag&Drop, Fetch, HTML, CSS, JSON, Git, REST, LocalStorage, esLint, Prettier, Husky, Animation, SPA</strong><br/>
 
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/fun-chat/">Chat</a> with WebSocket + for work backend <a href="https://github.com/YourunB/fun-chat-server">API</a></h4>
    Description: chat for communication is implemented on webSocket (<a href="https://github.com/YourunB/fun-chat-server"><b>API</b></a> for work app)<br/>
