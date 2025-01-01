@@ -249,6 +249,7 @@
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/vk.jpg?raw=true" alt="VK Education" style="width: 30px"> VK Education (duration: 2 week) - <a href="https://education.vk.company/curriculum/certificates/download/57773/a633d7e1-79d0-41bb-98cf-a501bc74ef47/">Product Management</h4>
 <div align="center">
    <a target="_blank" href="https://education.vk.company/curriculum/certificates/download/68044/fe17d41b-5a68-48aa-ae9c-7d0508fe379e/"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/vk-data.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
+   <a target="_blank" href="https://education.vk.company/curriculum/certificates/download/73869/bb1a6b6d-5990-42b9-863b-09162b620620/"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/vk-python.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
    <a target="_blank" href="https://education.vk.company/curriculum/certificates/download/57773/a633d7e1-79d0-41bb-98cf-a501bc74ef47/"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/vk-prod-mgr.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
 </div>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/stepik.png?raw=true" alt="Stepik" style="width: 30px"> Stepik (duration: 1 month) - <a href="https://stepik.org/certificate/7780f759b9e7a1731f26ef9c1436d4aa8f969b87.pdf">Python for Beginners</h4>
