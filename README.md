@@ -202,8 +202,8 @@
    Description: Slider in pure HTML and CSS<br/>
    Stack: <strong>HTML, CSS, Animation</strong><br/>
 
-   <h4><a href="https://yourunb.github.io/helpik/">HelpiK</a></h4>
-   Description: app to help doctors study medical tests and pass exams<br/>
+   <h4><a href="https://yourunb.github.io/helpik/">HelpiK</a> & <a href="https://yourunb.github.io/OT/">OT</a></h4>
+   Description: app to help doctors study medical tests and pass exams & app for studying occupational safety theory<br/>
    Stack: <strong>HTML, JS, CSS</strong><br/>
 
    <h4>React mini tasks: <a href="https://yourunb.github.io/React-Tasks/class-components/">Disney</a>, <a href="https://yourunb.github.io/Works_on_React/user-list">List</a>, <a href="https://yourunb.github.io/Works_on_React/Filter/">Filter</a>, <a href="https://yourunb.github.io/Works_on_React/rainbow/">Rainbow</a></h4>
