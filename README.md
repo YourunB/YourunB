@@ -16,7 +16,7 @@
    <img src="assets/images/redux.png" title="Redux" alt="Redux" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/ts.png" title="TypeScript" alt="TypeScript" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/js.png" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;">
-   <img src="assets/images/git.png" title="Git" alt="Git" width="40" height="40" style="max-width: 100%;">
+   <img src="assets/images/docker.png" title="Docker" alt="Docker" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/webpack.png" title="WebPack" alt="WebPack" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/sass.png" title="SASS(SCSS)" alt="SASS(SCSS)" width="40" height="40" style="max-width: 100%;">
    <img src="assets/images/websocket.png" title="WebSocket" alt="WebSocket" width="40" height="40" style="max-width: 100%;">
