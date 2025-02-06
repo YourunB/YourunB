@@ -37,6 +37,10 @@
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/rss-puzzle/">Puzzle Game</a></h4>
    Description: A fun app for learning English<br/>
    Stack: <strong>TypeScript, JavaScript, Webpack, Drag&Drop, Fetch, HTML, CSS, JSON, Git, REST, LocalStorage, esLint, Prettier, Husky, Animation, SPA</strong><br/>
+
+   <h4><a href="https://yourunb.github.io/pokemon/">Pokemon</a></h4>
+   Description: Application about pokemons with <a href="https://pokeapi.co/">pokeAPI</a> v2<br/>
+   Stack: <strong>React, Redux, RTK Query, TypeScript, JavaScript, Vite, HTML, SASS, Git, REST, LocalStorage, esLint, Prettier, FSD, MUI</strong><br/>
    
    <h4><a href="https://yourunb.github.io/Free-To-Play/">Free To Play</a></h4>
    Description: SPA designed in accordance with MVC is an application for searching for free games<br/>
