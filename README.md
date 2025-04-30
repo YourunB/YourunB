@@ -34,6 +34,10 @@
 
 <h2>↘️ My Projects:</h2>
 <div>
+   <h4><a href="https://mirteam.netlify.app/">Mirteam</a></h4>
+   Description: Website about stretch ceilings in Moscow<br/>
+   Stack: <strong>TypeScript, JavaScript, HTML, CSS, Git, esLint, Prettier</strong><br/>
+   
    <h4><a href="https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/rss-puzzle/">Puzzle Game</a></h4>
    Description: A fun app for learning English<br/>
    Stack: <strong>TypeScript, JavaScript, Webpack, Drag&Drop, Fetch, HTML, CSS, JSON, Git, REST, LocalStorage, esLint, Prettier, Husky, Animation, SPA</strong><br/>
