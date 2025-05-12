@@ -262,17 +262,17 @@
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/freecodecamp.jpg?raw=true" alt="FreeCodeCamp" style="width: 30px"> FreeCodeCamp (duration: 3 week) - <a href="https://www.freecodecamp.org/certification/yury-butskevich/data-visualization">Data Visualization</a></h4>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/freecodecamp.jpg?raw=true" alt="FreeCodeCamp" style="width: 30px"> FreeCodeCamp (duration: 3 week) - <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/">JavaScript Algorithms and Data Structures</a></h4>
 <div align="center">
-   <a target="_blank" href="https://www.freecodecamp.org/certification/yury-butskevich/responsive-web-design"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/rwd.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
-   <a target="_blank" href="https://www.freecodecamp.org/certification/yury-butskevich/data-visualization"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/dv.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
-   <a target="_blank" href="https://www.freecodecamp.org/certification/yury-butskevich/javascript-algorithms-and-data-structures-v8"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/js.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
+   <a target="_blank" href="https://www.freecodecamp.org/certification/yury-butskevich/responsive-web-design"><img src="https://github.com/YourunB/CV/blob/dev/assets/img/rwd.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
+   <a target="_blank" href="https://www.freecodecamp.org/certification/yury-butskevich/data-visualization"><img src="https://github.com/YourunB/CV/blob/dev/assets/img/dv.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
+   <a target="_blank" href="https://www.freecodecamp.org/certification/yury-butskevich/javascript-algorithms-and-data-structures-v8"><img src="https://github.com/YourunB/CV/blob/dev/assets/img/js.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
 </div>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/stepik.png?raw=true" alt="Stepik" style="width: 30px"> Stepik (duration: 1 month) - <a href="https://stepik.org/certificate/7780f759b9e7a1731f26ef9c1436d4aa8f969b87.pdf">Python for Beginners</h4>
 <div align="center">
-   <a target="_blank" href="https://stepik.org/certificate/7780f759b9e7a1731f26ef9c1436d4aa8f969b87.pdf"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/stepik-python.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
+   <a target="_blank" href="https://stepik.org/certificate/7780f759b9e7a1731f26ef9c1436d4aa8f969b87.pdf"><img src="https://github.com/YourunB/CV/blob/dev/assets/img/stepik-python.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
 </div>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/microsoft.jpg?raw=true" alt="Microsoft" style="width: 30px"> Microsoft (duration: 2 week) - <a href="https://learn.microsoft.com/en-gb/users/yury-1685/achievements/yvhj45er">Build JavaScript applications using TypeScript</h4>
 <div align="center">
-   <a target="_blank" href="https://learn.microsoft.com/en-gb/users/yury-1685/achievements/yvhj45er"><img src="https://github.com/YourunB/CV/blob/CV/assets/img/ts.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
+   <a target="_blank" href="https://learn.microsoft.com/en-gb/users/yury-1685/achievements/yvhj45er"><img src="https://github.com/YourunB/CV/blob/dev/assets/img/ts.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
 </div>
 <h4><img src="https://raw.githubusercontent.com/YourunB/Test1/main/images/aws.png" alt="AWS" style="width: 30px;"> Amazon Web Services (duration: 1 week) - <a href="https://yourunb.github.io/CV/assets/img/AWS-1.jpg">Getting Started with Cloud Acquisition</a></h4>
 <div align="center">
