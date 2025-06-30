@@ -34,6 +34,10 @@
 
 <h2>↘️ My Projects:</h2>
 <div>
+   <h4><a href="https://времена-года-кмв.рф">Vremena Goda</a></h4>
+   Description: Next App about tourist tours<br/>
+   Stack: <strong>Next, PostgreSQL, Docker, CI/CD, Yandex.Cloud, Yookassa, TypeScript, JavaScript, HTML, Tailwind, Git, esLint, Prettier, Husky</strong><br/>
+   
    <h4><a href="https://mirteam.netlify.app/">Mirteam</a></h4>
    Description: Website about stretch ceilings in Moscow<br/>
    Stack: <strong>TypeScript, JavaScript, HTML, CSS, Git, esLint, Prettier</strong><br/>
