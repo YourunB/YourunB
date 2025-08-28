@@ -235,7 +235,7 @@
   <a target="_blank" href="https://codepen.io/BxYura/pens/public"><img src="https://raw.githubusercontent.com/YourunB/CV/93c96306f28516723ffb218863511a9794ba9194/assets/svg/codepen.svg" alt="CodePen" style="width: 100px;"></a>
 </div>
 
-<h2>↘️ IT certificates:</h2>
+<h2>↘️ Certificates:</h2>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 30px"> RS School (duration: 3 month) - <a href="https://app.rs.school/certificate/xqvecs0c">React / Next. Stage 3</a> (score: 	1117.8 / 1195 - position: 45 / 1442)</h4>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 30px"> RS School (duration: 9 month) - <a href="https://app.rs.school/certificate/i38wx6lp">JavaScript / Frontend. Stage 1 & Stage 2</a> (score: 4747.9 / 4828 - position: 13 / 5886)</h4>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 30px"> RS School (duration: 5 month) - <a href="https://app.rs.school/certificate/v2s8zsd2">JavaScript / Frontend. Pre-School</a> (score: 1125.7 / 1135 - position: 83 / 8355)</h4>
