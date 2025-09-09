@@ -1,4 +1,4 @@
-<h1 align="center">&#60;Hello World /&#62; <img src="https://raw.githubusercontent.com/YourunB/YourunB/refs/heads/main/assets/images/click.gif" alt="Mouse" width="32" height="32"><br/>I am <a href="https://yourunb.github.io/CV/">Frontend Developer</a></h1>
+<!--<h1 align="center">&#60;Hello World /&#62; <img src="https://raw.githubusercontent.com/YourunB/YourunB/refs/heads/main/assets/images/click.gif" alt="Mouse" width="32" height="32"><br/>I am <a href="https://yourunb.github.io/CV/">Frontend Developer</a></h1>
 <p align="center"><a target="_blank" href="https://yourunb.github.io/WelcomePortfolio/"><img src="https://github.com/YourunB/Test1/blob/main/images/frontend1.png?raw=true" alt="Frontend development" width="300"/></a></p>
 
 <h2>↘️ About:</h2>
@@ -293,3 +293,4 @@
    <a href="https://explore.skillbuilder.aws/learn"><img src="https://raw.githubusercontent.com/YourunB/Test1/main/images/aws.png" alt="AWS" style="width: 100px"></a>
    <a href="https://learn.microsoft.com/ru-ru/training/"><img src="https://github.com/YourunB/Test1/blob/main/images/microsoft.jpg?raw=true" alt="Microsoft" style="width: 100px"></a>
 </div>
+-->
