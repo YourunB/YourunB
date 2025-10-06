@@ -36,7 +36,11 @@
 <div>
    <h4><a href="https://времена-года-кмв.рф">Vremena Goda</a></h4>
    Description: Travel service for booking tours<br/>
-   Stack: <strong>Next, PostgreSQL, Docker, CI/CD, Yandex.Cloud, Yookassa, TypeScript, JavaScript, HTML, Tailwind, Git, esLint, Prettier, Husky</strong><br/>
+   Stack: <strong>Next, PostgreSQL, Docker, CI/CD, Yandex.Cloud, Yookassa, TypeScript, JavaScript, HTML, Tailwind, Git, esLint, Prettier, Husky, Auth</strong><br/>
+
+   <h4><a href="https://mvlb.netlify.app/">Angular Movie Library</a></h4>
+   Description: Angular App with DB for Library Movie with API TMDB<br/>
+   Stack: <strong>Angular, Angular CLI, Angular Material UI, TypeScript, JavaScript, SCSS, Git, esLint, FireBase, Auth, LocalStorage, REST</strong><br/>
    
    <h4><a href="https://mirteam.netlify.app/">Mirteam</a></h4>
    Description: Website about stretch ceilings in Moscow<br/>
