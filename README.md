@@ -201,6 +201,10 @@
    <h4><a href="https://yourunb.github.io/WelcomePortfolio/">Welcome Portfolio</a></h4>
    Description: Creative welcome portfolio<br/>
    Stack: <strong>JavaScript, HTML, CSS, Git, Animation, SPA</strong><br/>
+
+   <h4><a href="https://yourunb.github.io/ITMO/lore/">LORE (Сreated From Figma)</a></h4>
+   Description: LORE - web site by figma<br/>
+   Stack: <strong>HTML, CSS, Figma, Git, Animation</strong><br/>
    
    <h4><a href="https://yourunb.github.io/CV/">Curriculum Vitae</a></h4>
    Description: My CV<br/>
