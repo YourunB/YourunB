@@ -209,6 +209,10 @@
    <h4><a href="https://yourunb.github.io/ITMO/lore/">LORE (Сreated From Figma)</a></h4>
    Description: LORE - web site by figma<br/>
    Stack: <strong>HTML, CSS, Figma, Git, Animation</strong><br/>
+
+   <h4><a href="https://yourunb.github.io/ITMO/cube/">CUBE (Сreated From Figma)</a></h4>
+   Description: CUBE - animation cube<br/>
+   Stack: <strong>HTML, CSS, Git, Animation</strong><br/>
    
    <h4><a href="https://yourunb.github.io/CV/">Curriculum Vitae</a></h4>
    Description: My CV<br/>
