@@ -206,8 +206,8 @@
    Description: Creative welcome portfolio<br/>
    Stack: <strong>JavaScript, HTML, CSS, Git, Animation, SPA</strong><br/>
 
-   <h4><a href="https://yourunb.github.io/ITMO/lore/">LORE (Сreated From Figma)</a></h4>
-   Description: LORE - web site by figma<br/>
+   <h4><a href="https://yourunb.github.io/ITMO/lore/">LORE (Сreated From Figma)</a> + <a href="https://yourunb.github.io/ITMO/illustrator/">Illustrator (Сreated From Figma)</a></h4>
+   Description: LORE - web site by figma + Illustrator by figma<br/>
    Stack: <strong>HTML, CSS, Figma, Git, Animation</strong><br/>
 
    <h4><a href="https://yourunb.github.io/ITMO/cube/">CUBE (Сreated From Figma)</a></h4>
