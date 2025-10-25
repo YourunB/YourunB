@@ -210,6 +210,10 @@
    Description: LORE - web site by figma + Illustrator by figma<br/>
    Stack: <strong>HTML, CSS, Figma, Git, Animation</strong><br/>
 
+   <h4><a href="https://yourunb.github.io/ITMO/course/">Course (Сreated From Figma)</a></h4>
+   Description: Course - web site by figma<br/>
+   Stack: <strong>HTML, SCSS, Figma, Git, Animation, Gulp</strong><br/>
+
    <h4><a href="https://yourunb.github.io/ITMO/cube/">CUBE (Сreated From Figma)</a></h4>
    Description: CUBE - animation cube<br/>
    Stack: <strong>HTML, CSS, Git, Animation</strong><br/>
