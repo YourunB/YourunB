@@ -252,10 +252,12 @@
 </div>
 
 <h2>↘️ Certificates:</h2>
+<h4><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 30px"> RS School (duration: 4 month) - <a href="https://app.rs.school/certificate/psliam8p">Angular. Stage 3</a> (score: 	1116.9 / 1165 - position: 16 / 203)</h4>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 30px"> RS School (duration: 3 month) - <a href="https://app.rs.school/certificate/xqvecs0c">React / Next. Stage 3</a> (score: 	1117.8 / 1195 - position: 45 / 1442)</h4>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 30px"> RS School (duration: 9 month) - <a href="https://app.rs.school/certificate/i38wx6lp">JavaScript / Frontend. Stage 1 & Stage 2</a> (score: 4747.9 / 4828 - position: 13 / 5886)</h4>
 <h4><img src="https://github.com/YourunB/Test1/blob/main/images/RsSchool.jpg?raw=true" alt="RS Schoole" style="width: 30px"> RS School (duration: 5 month) - <a href="https://app.rs.school/certificate/v2s8zsd2">JavaScript / Frontend. Pre-School</a> (score: 1125.7 / 1135 - position: 83 / 8355)</h4>
 <div align="center">
+   <a target="_blank" href="https://app.rs.school/certificate/psliam8p"><img src="https://github.com/YourunB/CV/blob/dev/assets/img/stage-3-angular.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
    <a target="_blank" href="https://app.rs.school/certificate/xqvecs0c"><img src="https://github.com/YourunB/CV/blob/dev/assets/img/stage-3.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
    <a target="_blank" href="https://app.rs.school/certificate/i38wx6lp"><img src="https://github.com/YourunB/CV/blob/dev/assets/img/stage-1-2.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
    <a target="_blank" href="https://app.rs.school/certificate/v2s8zsd2"><img src="https://github.com/YourunB/CV/blob/dev/assets/img/stage-0.jpg?raw=true" alt="Certificate" style="width: 200px"></a>
