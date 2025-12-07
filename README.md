@@ -38,6 +38,11 @@
    Description: Travel service for booking tours<br/>
    Stack: <strong>Next, PostgreSQL, Docker, CI/CD, Yandex.Cloud, Yookassa, TypeScript, JavaScript, HTML, Tailwind, Git, esLint, Prettier, Husky, Auth</strong><br/>
 
+<div>
+   <h4><a href="https://foodmindai.vercel.app/">Food Mind AI</a></h4>
+   Description: Аpp for analyzing food calories<br/>
+   Stack: <strong>React, MongoDB, TypeScript, Firebase, Tailwind, JavaScript, Express, AI, Auth</strong><br/>
+
    <h4><a href="https://mvlb.netlify.app/">Angular Movie Library</a></h4>
    Description: Angular App with DB for Library Movie with API TMDB<br/>
    Stack: <strong>Angular, Angular CLI, Angular Material UI, TypeScript, JavaScript, SCSS, Git, esLint, FireBase, Auth, LocalStorage, REST</strong><br/>
