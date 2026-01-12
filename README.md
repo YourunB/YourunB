@@ -34,11 +34,14 @@
 
 <h2>↘️ Projects:</h2>
 <div>
+   <h4><a href="https://foodmindai.vercel.app/">Food Mind AI</a></h4>
+   Description: AI-powered nutrition tracker for monitoring calorie intake and analyzing eating habits.<br/>
+   Stack: <strong>Next, MangoDB, AI, TypeScript, JavaScript, HTML, Tailwind, Git, esLint, Prettier, Husky, Auth</strong><br/>
+   
    <h4><a href="https://времена-года-кмв.рф">Vremena Goda</a></h4>
    Description: Travel service for booking tours<br/>
    Stack: <strong>Next, PostgreSQL, Docker, CI/CD, Yandex.Cloud, Yookassa, TypeScript, JavaScript, HTML, Tailwind, Git, esLint, Prettier, Husky, Auth</strong><br/>
 
-<div>
    <h4><a href="https://foodmindai.vercel.app/">Food Mind AI</a></h4>
    Description: Аpp for analyzing food calories<br/>
    Stack: <strong>React, MongoDB, TypeScript, Firebase, Tailwind, JavaScript, Express, AI, Auth</strong><br/>
